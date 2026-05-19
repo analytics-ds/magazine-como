@@ -153,10 +153,10 @@ articles:
     volume: 6100
     kd: null
     scheduled_date: "2026-05-19"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-05-19"
+    published_url_fr: "https://magazine.como.fr/blog/voiture-chinoise/"
+    published_url_en: "https://magazine.como.fr/en/blog/chinese-cars-france/"
     error: null
 
   - kw: "voiture qui consomme le moins"
