@@ -10,14 +10,14 @@ defaultContentLanguageInSubdir = false
 
 [languages]
   [languages.fr]
-    languageCode = 'fr'
-    languageName = 'Francais'
+    locale = 'fr'
+    label = 'Francais'
     weight = 1
     [languages.fr.params]
       description = "Le magazine de reference pour bien acheter, financer et entretenir sa Mercedes-Benz"
   [languages.en]
-    languageCode = 'en'
-    languageName = 'English'
+    locale = 'en'
+    label = 'English'
     weight = 2
     contentDir = 'content/en'
     [languages.en.params]

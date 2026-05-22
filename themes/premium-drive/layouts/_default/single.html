@@ -18,7 +18,7 @@
             <p class="article-description">{{ . }}</p>
             {{ end }}
             {{ with .Params.author }}
-            {{ $authorData := index $.Site.Data.authors . }}
+            {{ $authorData := index hugo.Data.authors . }}
             <div class="article-author">
                 <span class="author-label">{{ if eq $.Site.Language.Lang "en" }}By{{ else }}Par{{ end }}</span>
                 <span class="author-name">{{ with $authorData }}{{ .name }}{{ else }}{{ $ }}{{ end }}</span>
@@ -51,7 +51,7 @@
     </div>
 
     {{ with .Params.author }}
-    {{ $authorData := index $.Site.Data.authors . }}
+    {{ $authorData := index hugo.Data.authors . }}
     {{ with $authorData }}
     {{ $lang := $.Site.Language.Lang }}
     <section class="author-box-section">
