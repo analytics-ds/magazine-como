@@ -175,11 +175,11 @@ articles:
     volume: 3000
     kd: null
     scheduled_date: "2026-05-26"
-    status: todo
+    status: failed
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: null
+    error: "[Etape 1] SerpAPI cle invalide : Invalid API key"
 
   - kw: "quand faire controle technique"
     category: "Conseils pratiques"
