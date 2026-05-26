@@ -7,9 +7,6 @@ description: "Discover the main Chinese car brands available in France in 2026: 
 categories: ["Models and comparisons"]
 tags: ["chinese car brand", "BYD", "MG Motor", "Geely", "NIO", "XPeng", "chinese car"]
 author: "julien-lambert"
-image: "/images/blog/marque-de-voiture-chinoise.webp"
-imageAlt: "Car displayed in an automotive showroom, illustrating Chinese car brands"
-imageCredit: "Photo par TuRbO_J via Flickr (CC BY 2.0)"
 faq:
   - question: "Which is the best-selling Chinese car in France?"
     answer: "The best-selling Chinese car in France is the MG ZS, a compact SUV from MG Motor (a SAIC subsidiary). The Dacia Spring, manufactured in China for Renault, outsells all Chinese-branded models in volume, but it is not sold under a Chinese brand name. In 2024, MG Motor established itself as the leading Chinese car brand in France by registration numbers."
