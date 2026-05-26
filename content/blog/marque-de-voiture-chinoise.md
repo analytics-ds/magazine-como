@@ -7,9 +7,6 @@ description: "Découvrez les principales marques de voiture chinoise disponibles
 categories: ["Modeles et comparatifs"]
 tags: ["marque de voiture chinoise", "BYD", "MG Motor", "Geely", "NIO", "XPeng", "voiture chinoise"]
 author: "julien-lambert"
-image: "/images/blog/marque-de-voiture-chinoise.webp"
-imageAlt: "Véhicule exposé dans un showroom automobile, illustration des marques de voiture chinoise"
-imageCredit: "Photo par TuRbO_J via Flickr (CC BY 2.0)"
 faq:
   - question: "Quelle est la voiture chinoise la plus vendue en France ?"
     answer: "La voiture la plus vendue d'origine chinoise en France est la MG ZS, SUV compact de MG Motor (filiale de SAIC). La Dacia Spring, fabriquée en Chine pour Renault, dépasse toutes les marques chinoises en volume, mais elle n'est pas commercialisée sous une marque chinoise. En 2024, MG Motor s'est imposée comme la première marque automobile chinoise en France en termes d'immatriculations."
