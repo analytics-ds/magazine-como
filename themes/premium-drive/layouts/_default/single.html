@@ -1,7 +1,8 @@
 {{ define "main" }}
 
 <article class="single-article">
-    <header class="article-header{{ with .Params.image }} has-banner{{ end }}"{{ with .Params.image }} style="background-image: url('{{ . }}')"{{ end }}>
+    <header class="article-header{{ with .Params.image }} has-banner{{ end }}"{{ with .Params.image }} style="background-image: url('{{ . }}')"
+{{ end }}>
         <div class="article-header-overlay"></div>
         <div class="container article-header-content">
             <div class="article-meta">
@@ -18,7 +19,7 @@
             <p class="article-description">{{ . }}</p>
             {{ end }}
             {{ with .Params.author }}
-            {{ $authorData := index hugo.Data.authors . }}
+            {{ $authorData := index $.Site.Data.authors . }}
             <div class="article-author">
                 <span class="author-label">{{ if eq $.Site.Language.Lang "en" }}By{{ else }}Par{{ end }}</span>
                 <span class="author-name">{{ with $authorData }}{{ .name }}{{ else }}{{ $ }}{{ end }}</span>
@@ -51,7 +52,7 @@
     </div>
 
     {{ with .Params.author }}
-    {{ $authorData := index hugo.Data.authors . }}
+    {{ $authorData := index $.Site.Data.authors . }}
     {{ with $authorData }}
     {{ $lang := $.Site.Language.Lang }}
     <section class="author-box-section">
