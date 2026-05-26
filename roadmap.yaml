@@ -175,11 +175,11 @@ articles:
     volume: 3000
     kd: null
     scheduled_date: "2026-05-26"
-    status: failed
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
-    error: "[Etape 1] SerpAPI cle invalide : Invalid API key"
+    status: done
+    published_date: "2026-05-26"
+    published_url_fr: "https://magazine.como.fr/blog/marque-de-voiture-chinoise/"
+    published_url_en: "https://magazine.como.fr/en/blog/chinese-car-brands/"
+    error: null
 
   - kw: "quand faire controle technique"
     category: "Conseils pratiques"
