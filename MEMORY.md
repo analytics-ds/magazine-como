@@ -3,6 +3,7 @@
 ## Semaine 22 (25/05/2026 - 31/05/2026)
 - 2026-05-26 | Marques de voiture chinoise : le guide complet 2026 (FR+EN) | Modeles et comparatifs | auto
 - 2026-05-27 | Ou acheter un Mercedes GLC : guide d'achat 2026 (FR+EN) | Conseils pratiques
+- 2026-05-29 | Quand faire le controle technique : guide et delais 2026 (FR+EN) | Conseils pratiques | auto
 
 ## Semaine 21 (18/05/2026 - 24/05/2026)
 - 2026-05-19 | Voiture chinoise : guide des marques et prix en France 2026 (FR+EN) | Modeles et comparatifs | auto
