@@ -197,11 +197,11 @@ articles:
     volume: 2500
     kd: null
     scheduled_date: "2026-06-02"
-    status: todo
+    status: failed
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: null
+    error: "[Etape 1] SerpAPI credits epuises : Your account has run out of searches"
 
   - kw: "voiture essence qui consomme le moins"
     category: "Modeles et comparatifs"
