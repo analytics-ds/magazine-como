@@ -1,5 +1,12 @@
 # Journal de publication
 
+## Semaine 23 (01/06/2026 - 07/06/2026)
+- 2026-06-03 | Zeekr France : la marque électrique premium arrive en 2026 (FR+EN) | Electrique | ponctuel
+- 2026-06-03 | Zeekr 001 : prix, autonomie et fiche technique 2026 (FR+EN) | Modeles et comparatifs | ponctuel
+- 2026-06-03 | Zeekr 7X : prix, autonomie et fiche technique du SUV électrique (FR+EN) | Modeles et comparatifs | ponctuel
+- 2026-06-03 | Zeekr X : prix, autonomie et fiche technique du SUV compact (FR+EN) | Modeles et comparatifs | ponctuel
+- 2026-06-03 | Zeekr 007 : prix, autonomie et disponibilité en France (FR+EN) | Modeles et comparatifs | ponctuel
+
 ## Semaine 22 (25/05/2026 - 31/05/2026)
 - 2026-05-26 | Marques de voiture chinoise : le guide complet 2026 (FR+EN) | Modeles et comparatifs | auto
 - 2026-05-27 | Ou acheter un Mercedes GLC : guide d'achat 2026 (FR+EN) | Conseils pratiques
