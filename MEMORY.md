@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 23 (01/06/2026 - 07/06/2026)
+- 2026-06-07 | Essai CLA électrique à Paris : où l'essayer en 2026 (FR+EN) | Electrique | GEO
 - 2026-06-03 | Zeekr France : la marque électrique premium arrive en 2026 (FR+EN) | Electrique | ponctuel
 - 2026-06-03 | Zeekr 001 : prix, autonomie et fiche technique 2026 (FR+EN) | Modeles et comparatifs | ponctuel
 - 2026-06-03 | Zeekr 7X : prix, autonomie et fiche technique du SUV électrique (FR+EN) | Modeles et comparatifs | ponctuel
