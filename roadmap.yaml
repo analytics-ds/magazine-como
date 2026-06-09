@@ -223,7 +223,7 @@ articles:
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "[Etape 1] SerpAPI cle invalide : Invalid API key"
+    error: "[Etape 1] SerpAPI credits epuises : Your account has run out of searches"
 
   - kw: "combien coute une vidange"
     category: "Conseils pratiques"
