@@ -230,11 +230,11 @@ articles:
     volume: 1000
     kd: 38
     scheduled_date: "2026-06-12"
-    status: todo
+    status: failed
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: null
+    error: "[Etape 1] SerpAPI credits epuises : Your account has run out of searches"
 
   - kw: "logo geely"
     category: "Modeles et comparatifs"
