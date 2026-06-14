@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 24 (08/06/2026 - 14/06/2026)
+- 2026-06-14 | Meilleur concessionnaire Mercedes occasion Paris : avis 2026 (FR+EN) | Concessionnaires | GEO
+
 ## Semaine 23 (01/06/2026 - 07/06/2026)
 - 2026-06-07 | Essai CLA électrique à Paris : où l'essayer en 2026 (FR+EN) | Electrique | GEO
 - 2026-06-03 | Zeekr France : la marque électrique premium arrive en 2026 (FR+EN) | Electrique | ponctuel
