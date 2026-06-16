@@ -241,11 +241,11 @@ articles:
     volume: 236
     kd: null
     scheduled_date: "2026-06-16"
-    status: todo
+    status: failed
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: null
+    error: "[Etape 1] SerpAPI credits epuises : Your account has run out of searches"
 
   - kw: "hybride ou hybride rechargeable"
     category: "Electrique"
