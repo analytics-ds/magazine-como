@@ -252,10 +252,10 @@ articles:
     volume: 900
     kd: 30
     scheduled_date: "2026-06-19"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-06-23"
+    published_url_fr: "https://magazine.como.fr/blog/hybride-ou-hybride-rechargeable/"
+    published_url_en: "https://magazine.como.fr/en/blog/hybrid-or-plug-in-hybrid/"
     error: null
 
   - kw: "geely automobile"

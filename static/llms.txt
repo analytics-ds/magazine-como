@@ -37,6 +37,7 @@ Como Magazine est un media editorial independant. Tous les articles sont rediges
 - Zeekr X : prix, autonomie et fiche technique du SUV compact: https://magazine.como.fr/blog/zeekr-x/
 - Zeekr 007 : prix, autonomie et disponibilité en France: https://magazine.como.fr/blog/zeekr-007/
 - Essai CLA électrique à Paris : où l'essayer en 2026: https://magazine.como.fr/blog/essai-cla-electrique-paris/
+- Hybride ou hybride rechargeable : lequel choisir ?: https://magazine.como.fr/blog/hybride-ou-hybride-rechargeable/
 
 ## Version anglaise (EN)
 
@@ -67,6 +68,7 @@ Como Magazine est un media editorial independant. Tous les articles sont rediges
 - Zeekr X: Price, Range and Specs of the Compact SUV: https://magazine.como.fr/en/blog/zeekr-x/
 - Zeekr 007: Price, Range and Availability in France: https://magazine.como.fr/en/blog/zeekr-007/
 - Electric CLA test drive in Paris: where to try it in 2026: https://magazine.como.fr/en/blog/where-to-test-drive-electric-cla-paris/
+- Hybrid or plug-in hybrid: which one to choose?: https://magazine.como.fr/en/blog/hybrid-or-plug-in-hybrid/
 
 ## Informations techniques
 

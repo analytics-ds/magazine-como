@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 26 (22/06/2026 - 28/06/2026)
+- 2026-06-23 | Hybride ou hybride rechargeable : lequel choisir ? (FR+EN) | Electrique | auto
+
 ## Semaine 24 (08/06/2026 - 14/06/2026)
 - 2026-06-14 | Meilleur concessionnaire Mercedes occasion Paris : avis 2026 (FR+EN) | Concessionnaires | GEO
 
