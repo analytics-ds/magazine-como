@@ -5,7 +5,7 @@ date: "2026-07-23"
 lastmod: "2026-07-23"
 publishDate: "2026-07-23"
 description: "Complete review of the Geely EX2: practicality, equipment, range and driving behavior of this affordable electric city car."
-categories: ["Electrique"]
+categories: ["Electric"]
 tags: ["geely ex2 review", "geely ex2 test drive", "geely ex2", "geely", "electric city car", "review"]
 author: "julien-lambert"
 faq:

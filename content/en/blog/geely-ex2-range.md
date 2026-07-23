@@ -5,7 +5,7 @@ date: "2026-07-23"
 lastmod: "2026-07-23"
 publishDate: "2026-07-23"
 description: "Real-world range of the Geely EX2: discover 280 to 320 km in mixed driving, differences between WLTP and real-world, and factors affecting range."
-categories: ["Electrique"]
+categories: ["Electric"]
 tags: ["geely ex2 range", "geely ex2", "geely", "range", "electric car", "charging"]
 author: "julien-lambert"
 faq:

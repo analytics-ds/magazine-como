@@ -7,11 +7,11 @@
         <div class="container article-header-content">
             <div class="article-meta">
                 {{ with .Params.categories }}
-                <a href="{{ "/categories/" | relURL }}{{ index . 0 | urlize }}/" class="article-category">{{ index . 0 }}</a>
+                <a href="{{ "/categories/" | relLangURL }}{{ index . 0 | urlize }}/" class="article-category">{{ index . 0 }}</a>
                 {{ end }}
                 <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
                 {{ if .Params.readingTime }}
-                <span class="reading-time">{{ .ReadingTime }} min de lecture</span>
+                <span class="reading-time">{{ .ReadingTime }} {{ if eq $.Site.Language.Lang "en" }}min read{{ else }}min de lecture{{ end }}</span>
                 {{ end }}
             </div>
             <h1>{{ with .Params.h1 }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h1>
@@ -27,7 +27,7 @@
             {{ end }}
             <div class="article-tags">
                 {{ range .Params.tags }}
-                <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
+                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
                 {{ end }}
             </div>
         </div>

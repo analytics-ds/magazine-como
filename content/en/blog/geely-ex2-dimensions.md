@@ -5,7 +5,7 @@ date: "2026-07-23"
 lastmod: "2026-07-23"
 publishDate: "2026-07-23"
 description: "Discover the complete dimensions of the Geely EX2: 4.13 m length, 375 L boot space, generous interior room and excellent city parking capability."
-categories: ["Electrique"]
+categories: ["Electric"]
 tags: ["geely ex2 dimensions", "geely ex2 boot space", "geely ex2", "geely", "electric city car"]
 author: "julien-lambert"
 faq:

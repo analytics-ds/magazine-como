@@ -5,7 +5,7 @@ date: "2026-07-23"
 lastmod: "2026-07-23"
 publishDate: "2026-07-23"
 description: "Geely EX2 technical specifications: dimensions, LFP battery, WLTP range, electric motor, fast charging, versions and prices of the electric city car."
-categories: ["Electrique"]
+categories: ["Electric"]
 tags: ["geely ex2 specifications", "geely ex2 specs", "geely ex2", "geely", "electric car"]
 author: "julien-lambert"
 faq:

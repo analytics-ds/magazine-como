@@ -24,7 +24,7 @@
                             </div>
                             <div class="mega-menu-grid">
                                 {{ range .Children }}
-                                <a href="{{ .URL | relURL }}" class="mega-menu-item">
+                                <a href="{{ .URL | relLangURL }}" class="mega-menu-item">
                                     <span class="mega-menu-icon" aria-hidden="true">
                                         {{- $icon := .Params.icon -}}
                                         {{- if eq $icon "car" -}}
@@ -52,7 +52,7 @@
                     </div>
                 </div>
                 {{ else if not .Parent }}
-                <a href="{{ .URL | relURL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
+                <a href="{{ .URL | relLangURL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
                     {{ .Name }}
                 </a>
                 {{ end }}

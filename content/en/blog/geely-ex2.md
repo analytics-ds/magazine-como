@@ -5,7 +5,7 @@ date: "2026-07-23"
 lastmod: "2026-07-23"
 publishDate: "2026-07-23"
 description: "The Geely EX2, a Chinese electric city car from €20,990, offers up to 320 km of real-world range and a full equipment level. Everything you need to know."
-categories: ["Electrique"]
+categories: ["Electric"]
 tags: ["geely ex2", "geely", "electric city car", "electric car", "chinese car", "range"]
 author: "julien-lambert"
 faq:

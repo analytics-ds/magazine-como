@@ -5,7 +5,7 @@ date: "2026-07-23"
 lastmod: "2026-07-23"
 publishDate: "2026-07-23"
 description: "Zeekr 7GT: electric sporty estate from €45,990, up to 655 km WLTP range, 421 to 646 hp and 800V charging. Full specifications and prices in France."
-categories: ["Modeles et comparatifs"]
+categories: ["Models and comparisons"]
 tags: ["zeekr 7gt", "zeekr", "electric estate", "electric car", "chinese car", "zeekr france"]
 author: "julien-lambert"
 faq:

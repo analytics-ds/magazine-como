@@ -5,7 +5,7 @@ date: "2026-07-23"
 lastmod: "2026-07-23"
 publishDate: "2026-07-23"
 description: "Discover the Geely EX2 prices starting from 20,990 €, its three versions and financing solutions for this affordable electric city car."
-categories: ["Electrique"]
+categories: ["Electric"]
 tags: ["geely ex2 price", "geely ex2", "geely", "electric car", "city car electric", "pricing"]
 author: "julien-lambert"
 faq:

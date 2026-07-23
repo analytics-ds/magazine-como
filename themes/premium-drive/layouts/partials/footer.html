@@ -5,8 +5,9 @@
                 <h4>{{ .Site.Title }}</h4>
                 <p>{{ .Site.Params.description }}</p>
             </div>
+            {{ $isFr := eq .Site.Language.Lang "fr" }}
             <div class="footer-col">
-                <h4>Categories</h4>
+                <h4>{{ if $isFr }}Catégories{{ else }}Categories{{ end }}</h4>
                 <ul>
                     {{ range .Site.Taxonomies.categories }}
                     <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
@@ -17,14 +18,18 @@
                 <h4>Navigation</h4>
                 <ul>
                     {{ range .Site.Menus.main }}
-                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                    <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
                     {{ end }}
+                    {{ if $isFr }}
                     <li><a href="{{ "plan-du-site/" | relLangURL }}">Plan du site</a></li>
+                    {{ else }}
+                    <li><a href="{{ "site-map/" | relLangURL }}">Site map</a></li>
+                    {{ end }}
                 </ul>
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; {{ now.Year }} {{ .Site.Title }}. Tous droits reserves.</p>
+            <p>&copy; {{ now.Year }} {{ .Site.Title }}. {{ if $isFr }}Tous droits reserves.{{ else }}All rights reserved.{{ end }}</p>
         </div>
     </div>
 </footer>

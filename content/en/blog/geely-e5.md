@@ -4,7 +4,7 @@ translationKey: "geely-e5"
 date: "2026-05-12"
 lastmod: "2026-05-12"
 description: "Geely E5 in France: electric SUV from 37,990 euros, 475 km WLTP range. Full specs, pricing and honest review of this new Chinese SUV."
-categories: ["Electrique"]
+categories: ["Electric"]
 tags: ["geely", "electric SUV", "chinese car", "electric car", "range", "specs"]
 author: "julien-lambert"
 faq:
