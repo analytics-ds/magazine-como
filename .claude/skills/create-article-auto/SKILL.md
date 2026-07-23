@@ -169,6 +169,16 @@ bash .claude/scripts/fetch-image.sh "<kw traduit en anglais>" "<slug-fr>" "stati
 
 Si le blog a moins de 3 articles FR publies : faire au mieux avec ce qui existe (2 liens, 1 lien, ou aucun pour le tout premier article). Ne pas bloquer.
 
+## Etape 6bis — Lien sortant OBLIGATOIRE vers como.fr
+
+**Regle imperative** : chaque article publie (FR ET EN) doit contenir au moins un lien sortant vers le site principal `https://como.fr/`. Objectif : transferer la puissance SEO du magazine vers como.fr.
+
+1. Choisir la page como.fr la plus pertinente au sujet de l'article (page modele/gamme, financement, occasion, concession...). A defaut, la home `https://como.fr/`.
+2. Inserer le lien en **ancre de texte contextuelle** dans une phrase du corps : l'ancre decrit la cible, jamais "cliquez ici" ni l'URL brute "como.fr".
+3. **Dofollow obligatoire** : aucun `rel="nofollow"` sur ce lien (c'est lui qui transmet l'autorite).
+4. Ce lien **s'ajoute** aux liens internes de l'etape 6, il ne les remplace pas. Un seul suffit, deux maximum, inseres naturellement (pas de bloc "Voir aussi", pas de bourrage).
+5. Version EN : pointer vers l'equivalent como.fr existant, sinon la home.
+
 ## Etape 7 — Redaction FR complete
 
 Produire le fichier `content/blog/[slug-fr].md`.
@@ -205,6 +215,7 @@ readingTime: true
 - Mots-cles en **gras** quand pertinent.
 - Au moins 1 tableau si l'etape 1.3 a note "tableau pertinent".
 - Liens internes inseres contextuellement (etape 6).
+- Lien sortant dofollow vers como.fr en ancre de texte contextuelle (etape 6bis) — OBLIGATOIRE.
 - Ton impersonnel (pas de je/tu/nous/vous) sauf indication contraire dans le CLAUDE.md du blog.
 - Paragraphes aeres, 3-5 phrases max.
 - Pas de separateur horizontal (`---`). Pas de tiret cadratin (—) ni demi-cadratin (–).

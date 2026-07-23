@@ -281,6 +281,15 @@ bash .claude/scripts/fetch-image.sh "<kw traduit en anglais>" "<slug-fr>" "stati
 5. Construire les ancres : ancre = mot-cle principal de l'article cible
 6. Inserts contextuels dans le body (etape 2.9), un par section pertinente, **intra-langue uniquement**
 
+### 2.8bis Lien sortant OBLIGATOIRE vers como.fr
+
+En plus du maillage interne, chaque article (FR ET EN) doit contenir au moins un lien sortant vers le site principal `https://como.fr/`. Objectif : transferer la puissance SEO du magazine vers como.fr.
+
+- Ancre de **texte contextuelle** integree naturellement dans une phrase (jamais "cliquez ici" ni l'URL brute "como.fr" en ancre).
+- Lien **dofollow** : aucun `rel="nofollow"` (c'est lui qui transmet l'autorite).
+- Pointer vers la page como.fr la plus pertinente au sujet de l'article (modele, financement, occasion, concession...). A defaut, la home `https://como.fr/`. Version EN : equivalent como.fr existant, sinon la home.
+- Ce lien s'AJOUTE aux liens internes, il ne les remplace pas. Un seul suffit, deux maximum, insere naturellement (pas de bloc "Voir aussi", pas de bourrage).
+
 ### 2.9 Redaction FR
 
 Fichier `content/blog/<slug-fr>.md`.
@@ -315,6 +324,7 @@ Body :
 - Densite kw 1-2%, mots-cles en **gras**
 - 1 tableau si "tableau pertinent"
 - 3-5 liens internes contextuels (Etape 2.8)
+- Min. 1 lien sortant dofollow vers como.fr en ancre de texte contextuelle (Etape 2.8bis) — OBLIGATOIRE
 - Ton impersonnel
 - Pas de separateur horizontal `---` dans le body
 - Pas de tiret cadratin ni demi-cadratin

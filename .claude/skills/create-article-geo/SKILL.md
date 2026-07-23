@@ -215,6 +215,13 @@ Exemple :
 
 Si le site a moins de 3 articles, faire le maximum avec ce qui existe. Si le site est vide (premier article), noter dans un commentaire les futurs liens a ajouter quand d'autres articles seront publies.
 
+**Lien sortant OBLIGATOIRE vers como.fr** (en plus des liens internes) :
+- Chaque article (FR ET EN) doit contenir au moins un lien sortant vers le site principal `https://como.fr/`. Objectif : transferer la puissance SEO du magazine vers como.fr.
+- Ancre de **texte contextuelle** integree naturellement dans une phrase (jamais "cliquez ici" ni l'URL brute "como.fr" en ancre).
+- Lien **dofollow** : aucun `rel="nofollow"` (c'est lui qui transmet l'autorite).
+- Pointer vers la page como.fr la plus pertinente au sujet de l'article (modele, financement, occasion, concession...). A defaut, la home `https://como.fr/`. Version EN : equivalent como.fr existant, sinon la home.
+- Ce lien s'AJOUTE aux 3 liens internes, il ne les remplace pas. Un seul suffit, deux maximum, insere naturellement (pas de bloc "Voir aussi", pas de bourrage).
+
 ## Etape 3 — Redaction bilingue (FR + EN)
 
 Lire le template correspondant dans `.claude/templates/articles/[type-choisi].md` et l'utiliser comme squelette **pour chaque langue**.
@@ -276,6 +283,7 @@ Ces regles sont fondamentales pour que l'article soit cite par les moteurs IA ge
 | Mots-cles en gras | Oui, `**mot-cle**` |
 | Ton | Impersonnel (pas de je/tu/nous/vous) sauf si precise autrement dans le CLAUDE.md |
 | Liens internes | Min. 3 liens contextuels vers des articles existants (ancre = mot-cle de l'article cible) |
+| Lien sortant como.fr | OBLIGATOIRE : min. 1 lien dofollow vers `https://como.fr/` en ancre de texte contextuelle (FR et EN) |
 | FAQ | 3-5 questions en fin d'article |
 | Separateurs | JAMAIS de separateur horizontal (---) entre les sections |
 | Tirets | JAMAIS de tiret cadratin ni demi-cadratin. Utiliser des virgules, des points ou reformuler |
@@ -310,6 +318,7 @@ Lire les commentaires HTML `<!-- NOTES POUR CLAUDE -->` en bas du template chois
 - [ ] Mots-cles en gras
 - [ ] Ton correct
 - [ ] Min. 3 liens internes contextuels (ancres = mots-cles des articles cibles)
+- [ ] Min. 1 lien sortant dofollow vers como.fr en ancre de texte contextuelle (FR et EN)
 - [ ] Blocs obligatoires presents selon le type
 - [ ] Quick summary "En bref" auto-suffisant avec donnees chiffrees
 - [ ] Au moins 1 tableau recapitulatif
