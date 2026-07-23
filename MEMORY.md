@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 30 (20/07/2026 - 26/07/2026)
+- 2026-07-23 | Zeekr 7GT : prix, autonomie et fiche technique du break sportif (FR+EN) | Modeles et comparatifs | ponctuel
 - 2026-07-23 | Geely EX2 : prix, autonomie et tout savoir sur la citadine électrique (FR+EN) | Electrique, Geely | ponctuel
 - 2026-07-23 | Geely EX2 prix : tarifs, versions et financement 2026 (FR+EN) | Electrique, Geely | ponctuel
 - 2026-07-23 | Geely EX2 autonomie : combien de kilomètres en réel ? (FR+EN) | Electrique, Geely | ponctuel
