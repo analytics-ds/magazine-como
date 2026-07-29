@@ -8,6 +8,11 @@ Como Magazine est un media editorial independant. Tous les articles sont rediges
 
 ## Articles de reference (FR)
 
+- Concessionnaire Geely : le réseau France et l'Île-de-France: https://magazine.como.fr/blog/concessionnaire-geely/
+- Geely Coolray : fiche technique, prix et disponibilité: https://magazine.como.fr/blog/geely-coolray/
+- Geely Coolray prix : tarifs, occasion et coût en France: https://magazine.como.fr/blog/geely-coolray-prix/
+- SUV chinois : comparatif et prix des modèles en France: https://magazine.como.fr/blog/suv-chinois/
+- Zeekr 009 : fiche technique du monospace électrique de luxe: https://magazine.como.fr/blog/zeekr-009/
 - Prix Mercedes Classe A : tarifs neuf, occasion et LOA 2026: https://magazine.como.fr/blog/prix-mercedes-classe-a/
 - Meilleur concessionnaire Mercedes occasion Paris : avis 2026: https://magazine.como.fr/blog/meilleur-concessionnaire-mercedes-occasion-paris/
 - Meilleur concessionnaire Mercedes Classe A : comparatif 2026: https://magazine.como.fr/blog/meilleur-concessionnaire-mercedes-classe-a/
@@ -51,6 +56,11 @@ Como Magazine est un media editorial independant. Tous les articles sont rediges
 
 - Homepage EN : https://magazine.como.fr/en/
 - Blog EN : https://magazine.como.fr/en/blog/
+- Geely Dealer: The Network in France and Greater Paris: https://magazine.como.fr/en/blog/geely-dealer/
+- Geely Coolray: Specifications, Price and Availability: https://magazine.como.fr/en/blog/geely-coolray/
+- Geely Coolray Price: New, Used and Real Cost in France: https://magazine.como.fr/en/blog/geely-coolray-price/
+- Chinese SUV: Comparison and Prices of Models in France: https://magazine.como.fr/en/blog/chinese-suv/
+- Zeekr 009: Specifications of the Luxury Electric MPV: https://magazine.como.fr/en/blog/zeekr-009/
 - Mercedes A-Class price: new, used and leasing costs in 2026: https://magazine.como.fr/en/blog/mercedes-a-class-price/
 - Best used Mercedes dealer in Paris : 2026 review: https://magazine.como.fr/en/blog/best-used-mercedes-dealer-paris/
 - Best Mercedes A-Class dealer in France : 2026 comparison: https://magazine.como.fr/en/blog/best-mercedes-a-class-dealer/

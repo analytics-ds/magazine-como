@@ -92,10 +92,10 @@ articles:
     volume: 20
     kd: null
     scheduled_date: "2026-06-04"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-07-29"
+    published_url_fr: "https://magazine.como.fr/blog/concessionnaire-geely/"
+    published_url_en: "https://magazine.como.fr/en/blog/geely-dealer/"
     error: null
 
   - kw: "suv chinois"
@@ -103,10 +103,10 @@ articles:
     volume: 2900
     kd: null
     scheduled_date: "2026-06-05"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-07-29"
+    published_url_fr: "https://magazine.como.fr/blog/suv-chinois/"
+    published_url_en: "https://magazine.como.fr/en/blog/chinese-suv/"
     error: null
 
   - kw: "geely coolray prix"
@@ -114,10 +114,10 @@ articles:
     volume: 320
     kd: null
     scheduled_date: "2026-06-06"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-07-29"
+    published_url_fr: "https://magazine.como.fr/blog/geely-coolray-prix/"
+    published_url_en: "https://magazine.como.fr/en/blog/geely-coolray-price/"
     error: null
 
   - kw: "zeekr 009"
@@ -125,10 +125,10 @@ articles:
     volume: 590
     kd: null
     scheduled_date: "2026-06-07"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-07-29"
+    published_url_fr: "https://magazine.como.fr/blog/zeekr-009/"
+    published_url_en: "https://magazine.como.fr/en/blog/zeekr-009/"
     error: null
 
   - kw: "volvo chinois"
@@ -589,10 +589,10 @@ articles:
     volume: 3600
     kd: null
     scheduled_date: "2026-06-03"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-07-29"
+    published_url_fr: "https://magazine.como.fr/blog/geely-coolray/"
+    published_url_en: "https://magazine.como.fr/en/blog/geely-coolray/"
     error: null
 
   - kw: "quand changer batterie voiture"
