@@ -57,6 +57,200 @@
 # Doc complete de la skill : .claude/skills/create-article-auto/SKILL.md
 
 articles:
+
+  # === BLOC PRIORITAIRE : etude mots-cles Geely/Zeekr marche italien (ajout 2026-07-29) ===
+  # Dates volontairement anterieures au backlog (06-23+) pour passer en TETE de file :
+  # l'agent trie par scheduled_date croissante, ce bloc sera donc consomme en premier.
+  # Ordre = priorite P1>P2>P3 de l'etude, en respectant la regle de diversite des categories.
+  # Les entrees existantes "geely coolray", "voiture chinoise electrique", "geely volvo"
+  # et "voiture geely avis" font partie de ce bloc (dates remontees en juin, plus bas dans le fichier).
+
+  - kw: "zeekr"
+    category: "Modeles et comparatifs"
+    volume: 27100
+    kd: null
+    scheduled_date: "2026-06-01"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "geely voiture prix"
+    category: "Financement"
+    volume: 590
+    kd: null
+    scheduled_date: "2026-06-02"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "concessionnaire geely"
+    category: "Concessionnaires"
+    volume: 20
+    kd: null
+    scheduled_date: "2026-06-04"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "suv chinois"
+    category: "Modeles et comparatifs"
+    volume: 2900
+    kd: null
+    scheduled_date: "2026-06-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "geely coolray prix"
+    category: "Financement"
+    volume: 320
+    kd: null
+    scheduled_date: "2026-06-06"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "zeekr 009"
+    category: "Modeles et comparatifs"
+    volume: 590
+    kd: null
+    scheduled_date: "2026-06-07"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "volvo chinois"
+    category: "Modeles et comparatifs"
+    volume: 480
+    kd: null
+    scheduled_date: "2026-06-09"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "voiture chinoise prix"
+    category: "Financement"
+    volume: 1000
+    kd: null
+    scheduled_date: "2026-06-10"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "suv chinois hybride"
+    category: "Electrique"
+    volume: 1300
+    kd: null
+    scheduled_date: "2026-06-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "geely coolray avis"
+    category: "Modeles et comparatifs"
+    volume: 90
+    kd: null
+    scheduled_date: "2026-06-13"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "zeekr 7x prix"
+    category: "Financement"
+    volume: 720
+    kd: null
+    scheduled_date: "2026-06-14"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "volvo rachete par les chinois"
+    category: "Modeles et comparatifs"
+    volume: 50
+    kd: null
+    scheduled_date: "2026-06-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "suv electrique chinois"
+    category: "Electrique"
+    volume: 880
+    kd: null
+    scheduled_date: "2026-06-16"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "zeekr prix"
+    category: "Financement"
+    volume: 390
+    kd: null
+    scheduled_date: "2026-06-18"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "zeekr essai"
+    category: "Modeles et comparatifs"
+    volume: 20
+    kd: null
+    scheduled_date: "2026-06-19"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "zeekr occasion"
+    category: "Occasion"
+    volume: 110
+    kd: null
+    scheduled_date: "2026-06-20"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "fiabilite voiture chinoise"
+    category: "Conseils pratiques"
+    volume: 50
+    kd: null
+    scheduled_date: "2026-06-21"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
   - kw: "vignette crit air"
     category: "Conseils pratiques"
     volume: 188200
@@ -194,14 +388,14 @@ articles:
 
   - kw: "voiture chinoise electrique"
     category: "Electrique"
-    volume: 2500
+    volume: 27100
     kd: null
-    scheduled_date: "2026-06-02"
-    status: failed
+    scheduled_date: "2026-06-08"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "[Etape 1] SerpAPI credits epuises : Your account has run out of searches"
+    error: null
 
   - kw: "voiture essence qui consomme le moins"
     category: "Modeles et comparatifs"
@@ -218,12 +412,12 @@ articles:
     category: "Modeles et comparatifs"
     volume: 260
     kd: null
-    scheduled_date: "2026-06-09"
-    status: failed
+    scheduled_date: "2026-06-11"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "[Etape 1] SerpAPI credits epuises : Your account has run out of searches"
+    error: null
 
   - kw: "combien coute une vidange"
     category: "Conseils pratiques"
@@ -392,9 +586,9 @@ articles:
 
   - kw: "geely coolray"
     category: "Modeles et comparatifs"
-    volume: 70
+    volume: 3600
     kd: null
-    scheduled_date: "2026-08-04"
+    scheduled_date: "2026-06-03"
     status: todo
     published_date: null
     published_url_fr: null
@@ -546,9 +740,9 @@ articles:
 
   - kw: "voiture geely avis"
     category: "Modeles et comparatifs"
-    volume: 10
+    volume: 40
     kd: null
-    scheduled_date: "2026-09-22"
+    scheduled_date: "2026-06-17"
     status: todo
     published_date: null
     published_url_fr: null
