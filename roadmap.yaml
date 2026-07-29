@@ -902,3 +902,152 @@ articles:
     published_url_fr: null
     published_url_en: null
     error: null
+
+  # === BLOC BASSE PRIORITE : prompts sortis de la roadmap GEO (ajout 2026-07-29) ===
+  # Ces 13 sujets etaient des prompts GEO du Monitoring Como, retires apres mesure
+  # (declenchent bien la recherche web de ChatGPT mais aucune citation Como sur 3 passages,
+  # intention informationnelle pure). Recycles ici en contenu evergreen du magazine.
+  # Dates placees APRES tout le backlog existant : ils passent en DERNIER dans la file.
+
+  - kw: "comment fonctionne la loa mercedes"
+    category: "Financement"
+    volume: null
+    kd: null
+    scheduled_date: "2026-12-25"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "mercedes classe a ou bmw serie 1"
+    category: "Modeles et comparatifs"
+    volume: null
+    kd: null
+    scheduled_date: "2027-01-01"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "mercedes electrique ou hybride"
+    category: "Electrique"
+    volume: null
+    kd: null
+    scheduled_date: "2027-01-08"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment negocier le prix d'une mercedes neuve"
+    category: "Conseils pratiques"
+    volume: null
+    kd: null
+    scheduled_date: "2027-01-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "quel apport pour une loa mercedes"
+    category: "Financement"
+    volume: null
+    kd: null
+    scheduled_date: "2027-01-22"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "gla ou glc lequel choisir"
+    category: "Modeles et comparatifs"
+    volume: null
+    kd: null
+    scheduled_date: "2027-01-29"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "autonomie cla electrique"
+    category: "Electrique"
+    volume: null
+    kd: null
+    scheduled_date: "2027-02-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "difference loa lld mercedes"
+    category: "Financement"
+    volume: null
+    kd: null
+    scheduled_date: "2027-02-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "garantie constructeur mercedes"
+    category: "Conseils pratiques"
+    volume: null
+    kd: null
+    scheduled_date: "2027-02-19"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "aides achat voiture electrique"
+    category: "Electrique"
+    volume: null
+    kd: null
+    scheduled_date: "2027-02-26"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment choisir son concessionnaire mercedes"
+    category: "Concessionnaires"
+    volume: null
+    kd: null
+    scheduled_date: "2027-03-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "avantages fiscaux mercedes electrique professionnel"
+    category: "Financement"
+    volume: null
+    kd: null
+    scheduled_date: "2027-03-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "cout entretien mercedes"
+    category: "Conseils pratiques"
+    volume: null
+    kd: null
+    scheduled_date: "2027-03-19"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
