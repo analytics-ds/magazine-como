@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 32 (03/08/2026 - 09/08/2026)
+- 2026-08-03 | Meilleur concessionnaire Geely : le comparatif 2026 (FR+EN) | Concessionnaires | GEO
+
 ## Semaine 31 (27/07/2026 - 02/08/2026)
 - 2026-07-29 | Concessionnaire Geely : le réseau France et l'Île-de-France (FR+EN) | Concessionnaires | batch
 - 2026-07-29 | Geely Coolray : fiche technique, prix et disponibilité (FR+EN) | Modeles et comparatifs | batch
