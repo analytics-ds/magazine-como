@@ -295,6 +295,16 @@ hugo
 - Si exit code non-zero : marquer `failed` avec log de l'erreur, abort.
 - Si OK : noter le nombre de pages generees.
 
+### 9.2 Verifier que les deux pages sont reellement dans le build
+
+```bash
+ls public/blog/[slug-fr]/index.html public/en/blog/[slug-en]/index.html
+```
+
+Ce controle n'est pas cosmetique. Un article ecrit hors du `contentDir` de sa langue **n'est pas construit par Hugo, sans provoquer la moindre erreur de build** : `hugo` rend 0 et l'article est en 404 en production. C'est deja arrive sur le reseau et ca a mis plusieurs jours a etre vu.
+
+Si un des deux fichiers manque, marquer `failed` avec l'erreur "page absente du build" **meme si `hugo` a rendu 0**, et verifier en priorite le chemin d'ecriture du fichier de contenu.
+
 ## Etape 10 — Update roadmap et MEMORY.md
 
 ### Roadmap
