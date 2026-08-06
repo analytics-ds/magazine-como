@@ -69,7 +69,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 27100
     kd: null
-    scheduled_date: "2026-06-01"
+    scheduled_date: "2026-08-14"
     status: todo
     published_date: null
     published_url_fr: null
@@ -80,7 +80,7 @@ articles:
     category: "Financement"
     volume: 590
     kd: null
-    scheduled_date: "2026-06-02"
+    scheduled_date: "2026-08-18"
     status: todo
     published_date: null
     published_url_fr: null
@@ -135,7 +135,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 480
     kd: null
-    scheduled_date: "2026-06-09"
+    scheduled_date: "2026-08-28"
     status: todo
     published_date: null
     published_url_fr: null
@@ -146,7 +146,7 @@ articles:
     category: "Financement"
     volume: 1000
     kd: null
-    scheduled_date: "2026-06-10"
+    scheduled_date: "2026-09-01"
     status: todo
     published_date: null
     published_url_fr: null
@@ -157,7 +157,7 @@ articles:
     category: "Electrique"
     volume: 1300
     kd: null
-    scheduled_date: "2026-06-12"
+    scheduled_date: "2026-09-08"
     status: todo
     published_date: null
     published_url_fr: null
@@ -168,7 +168,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 90
     kd: null
-    scheduled_date: "2026-06-13"
+    scheduled_date: "2026-09-15"
     status: todo
     published_date: null
     published_url_fr: null
@@ -179,7 +179,7 @@ articles:
     category: "Financement"
     volume: 720
     kd: null
-    scheduled_date: "2026-06-14"
+    scheduled_date: "2026-09-18"
     status: todo
     published_date: null
     published_url_fr: null
@@ -190,7 +190,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 50
     kd: null
-    scheduled_date: "2026-06-15"
+    scheduled_date: "2026-09-22"
     status: todo
     published_date: null
     published_url_fr: null
@@ -201,7 +201,7 @@ articles:
     category: "Electrique"
     volume: 880
     kd: null
-    scheduled_date: "2026-06-16"
+    scheduled_date: "2026-09-25"
     status: todo
     published_date: null
     published_url_fr: null
@@ -212,7 +212,7 @@ articles:
     category: "Financement"
     volume: 390
     kd: null
-    scheduled_date: "2026-06-18"
+    scheduled_date: "2026-10-06"
     status: todo
     published_date: null
     published_url_fr: null
@@ -223,7 +223,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 20
     kd: null
-    scheduled_date: "2026-06-19"
+    scheduled_date: "2026-10-09"
     status: todo
     published_date: null
     published_url_fr: null
@@ -234,7 +234,7 @@ articles:
     category: "Occasion"
     volume: 110
     kd: null
-    scheduled_date: "2026-06-20"
+    scheduled_date: "2026-10-13"
     status: todo
     published_date: null
     published_url_fr: null
@@ -245,7 +245,7 @@ articles:
     category: "Conseils pratiques"
     volume: 50
     kd: null
-    scheduled_date: "2026-06-21"
+    scheduled_date: "2026-10-16"
     status: todo
     published_date: null
     published_url_fr: null
@@ -335,12 +335,12 @@ articles:
     category: "Electrique"
     volume: 3100
     kd: 27
-    scheduled_date: "2026-05-15"
-    status: failed
+    scheduled_date: "2026-08-07"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "[Etape 1] SerpAPI cle invalide : Invalid API key"
+    error: null
 
   - kw: "voiture chinoise"
     category: "Modeles et comparatifs"
@@ -357,12 +357,12 @@ articles:
     category: "Modeles et comparatifs"
     volume: 1200
     kd: 29
-    scheduled_date: "2026-05-22"
-    status: failed
+    scheduled_date: "2026-08-11"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "[Etape 1] SerpAPI cle invalide : Invalid API key"
+    error: null
 
   - kw: "marque de voiture chinoise"
     category: "Modeles et comparatifs"
@@ -390,7 +390,7 @@ articles:
     category: "Electrique"
     volume: 27100
     kd: null
-    scheduled_date: "2026-06-08"
+    scheduled_date: "2026-08-25"
     status: todo
     published_date: null
     published_url_fr: null
@@ -401,18 +401,18 @@ articles:
     category: "Modeles et comparatifs"
     volume: 500
     kd: 25
-    scheduled_date: "2026-06-05"
-    status: failed
+    scheduled_date: "2026-08-21"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "[Etape 1] SerpAPI credits epuises : Your account has run out of searches"
+    error: null
 
   - kw: "geely volvo"
     category: "Modeles et comparatifs"
     volume: 260
     kd: null
-    scheduled_date: "2026-06-11"
+    scheduled_date: "2026-09-04"
     status: todo
     published_date: null
     published_url_fr: null
@@ -423,23 +423,23 @@ articles:
     category: "Conseils pratiques"
     volume: 1000
     kd: 38
-    scheduled_date: "2026-06-12"
-    status: failed
+    scheduled_date: "2026-09-11"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "[Etape 1] SerpAPI credits epuises : Your account has run out of searches"
+    error: null
 
   - kw: "logo geely"
     category: "Modeles et comparatifs"
     volume: 236
     kd: null
-    scheduled_date: "2026-06-16"
-    status: failed
+    scheduled_date: "2026-09-29"
+    status: todo
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: "[Etape 1] SerpAPI credits epuises : Your account has run out of searches"
+    error: null
 
   - kw: "hybride ou hybride rechargeable"
     category: "Electrique"
@@ -456,7 +456,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 210
     kd: null
-    scheduled_date: "2026-06-23"
+    scheduled_date: "2026-10-20"
     status: todo
     published_date: null
     published_url_fr: null
@@ -467,7 +467,7 @@ articles:
     category: "Electrique"
     volume: 1000
     kd: 32
-    scheduled_date: "2026-06-26"
+    scheduled_date: "2026-10-23"
     status: todo
     published_date: null
     published_url_fr: null
@@ -478,7 +478,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 210
     kd: null
-    scheduled_date: "2026-06-30"
+    scheduled_date: "2026-10-27"
     status: todo
     published_date: null
     published_url_fr: null
@@ -489,7 +489,7 @@ articles:
     category: "Electrique"
     volume: 1200
     kd: 40
-    scheduled_date: "2026-07-03"
+    scheduled_date: "2026-10-30"
     status: todo
     published_date: null
     published_url_fr: null
@@ -500,7 +500,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 110
     kd: null
-    scheduled_date: "2026-07-07"
+    scheduled_date: "2026-11-03"
     status: todo
     published_date: null
     published_url_fr: null
@@ -511,7 +511,7 @@ articles:
     category: "Conseils pratiques"
     volume: 1700
     kd: 27
-    scheduled_date: "2026-07-10"
+    scheduled_date: "2026-11-06"
     status: todo
     published_date: null
     published_url_fr: null
@@ -522,7 +522,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 110
     kd: null
-    scheduled_date: "2026-07-14"
+    scheduled_date: "2026-11-10"
     status: todo
     published_date: null
     published_url_fr: null
@@ -533,7 +533,7 @@ articles:
     category: "Financement"
     volume: 720
     kd: 28
-    scheduled_date: "2026-07-17"
+    scheduled_date: "2026-11-13"
     status: todo
     published_date: null
     published_url_fr: null
@@ -544,7 +544,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 170
     kd: null
-    scheduled_date: "2026-07-21"
+    scheduled_date: "2026-11-17"
     status: todo
     published_date: null
     published_url_fr: null
@@ -555,7 +555,7 @@ articles:
     category: "Conseils pratiques"
     volume: 1300
     kd: 35
-    scheduled_date: "2026-07-24"
+    scheduled_date: "2026-11-20"
     status: todo
     published_date: null
     published_url_fr: null
@@ -566,7 +566,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 90
     kd: null
-    scheduled_date: "2026-07-28"
+    scheduled_date: "2026-11-24"
     status: todo
     published_date: null
     published_url_fr: null
@@ -577,7 +577,7 @@ articles:
     category: "Financement"
     volume: 320
     kd: 33
-    scheduled_date: "2026-07-31"
+    scheduled_date: "2026-11-27"
     status: todo
     published_date: null
     published_url_fr: null
@@ -599,7 +599,7 @@ articles:
     category: "Conseils pratiques"
     volume: 480
     kd: 42
-    scheduled_date: "2026-08-07"
+    scheduled_date: "2026-12-01"
     status: todo
     published_date: null
     published_url_fr: null
@@ -610,7 +610,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 40
     kd: null
-    scheduled_date: "2026-08-11"
+    scheduled_date: "2026-12-04"
     status: todo
     published_date: null
     published_url_fr: null
@@ -621,7 +621,7 @@ articles:
     category: "Electrique"
     volume: 536
     kd: 25
-    scheduled_date: "2026-08-14"
+    scheduled_date: "2026-12-08"
     status: todo
     published_date: null
     published_url_fr: null
@@ -632,7 +632,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 30
     kd: null
-    scheduled_date: "2026-08-18"
+    scheduled_date: "2026-12-11"
     status: todo
     published_date: null
     published_url_fr: null
@@ -643,7 +643,7 @@ articles:
     category: "Conseils pratiques"
     volume: 436
     kd: 42
-    scheduled_date: "2026-08-21"
+    scheduled_date: "2026-12-15"
     status: todo
     published_date: null
     published_url_fr: null
@@ -654,7 +654,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 20
     kd: null
-    scheduled_date: "2026-08-25"
+    scheduled_date: "2026-12-18"
     status: todo
     published_date: null
     published_url_fr: null
@@ -665,7 +665,7 @@ articles:
     category: "Conseils pratiques"
     volume: 300
     kd: 39
-    scheduled_date: "2026-08-28"
+    scheduled_date: "2026-12-22"
     status: todo
     published_date: null
     published_url_fr: null
@@ -676,7 +676,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 20
     kd: null
-    scheduled_date: "2026-09-01"
+    scheduled_date: "2026-12-25"
     status: todo
     published_date: null
     published_url_fr: null
@@ -687,7 +687,7 @@ articles:
     category: "Conseils pratiques"
     volume: 300
     kd: 39
-    scheduled_date: "2026-09-04"
+    scheduled_date: "2026-12-29"
     status: todo
     published_date: null
     published_url_fr: null
@@ -698,7 +698,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 20
     kd: null
-    scheduled_date: "2026-09-08"
+    scheduled_date: "2027-01-01"
     status: todo
     published_date: null
     published_url_fr: null
@@ -709,7 +709,7 @@ articles:
     category: "Electrique"
     volume: 200
     kd: 21
-    scheduled_date: "2026-09-11"
+    scheduled_date: "2027-01-05"
     status: todo
     published_date: null
     published_url_fr: null
@@ -720,7 +720,7 @@ articles:
     category: "Electrique"
     volume: 10
     kd: null
-    scheduled_date: "2026-09-15"
+    scheduled_date: "2027-01-08"
     status: todo
     published_date: null
     published_url_fr: null
@@ -731,7 +731,7 @@ articles:
     category: "Conseils pratiques"
     volume: 200
     kd: 34
-    scheduled_date: "2026-09-18"
+    scheduled_date: "2027-01-12"
     status: todo
     published_date: null
     published_url_fr: null
@@ -742,7 +742,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 40
     kd: null
-    scheduled_date: "2026-06-17"
+    scheduled_date: "2026-10-02"
     status: todo
     published_date: null
     published_url_fr: null
@@ -753,7 +753,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 390
     kd: 24
-    scheduled_date: "2026-09-25"
+    scheduled_date: "2027-01-15"
     status: todo
     published_date: null
     published_url_fr: null
@@ -764,7 +764,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 90
     kd: null
-    scheduled_date: "2026-09-29"
+    scheduled_date: "2027-01-19"
     status: todo
     published_date: null
     published_url_fr: null
@@ -775,7 +775,7 @@ articles:
     category: "Electrique"
     volume: 118
     kd: 20
-    scheduled_date: "2026-10-02"
+    scheduled_date: "2027-01-22"
     status: todo
     published_date: null
     published_url_fr: null
@@ -786,7 +786,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 236
     kd: 41
-    scheduled_date: "2026-10-09"
+    scheduled_date: "2027-01-26"
     status: todo
     published_date: null
     published_url_fr: null
@@ -797,7 +797,7 @@ articles:
     category: "Conseils pratiques"
     volume: 10
     kd: 38
-    scheduled_date: "2026-10-16"
+    scheduled_date: "2027-01-29"
     status: todo
     published_date: null
     published_url_fr: null
@@ -808,7 +808,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 210
     kd: 26
-    scheduled_date: "2026-10-23"
+    scheduled_date: "2027-02-02"
     status: todo
     published_date: null
     published_url_fr: null
@@ -819,7 +819,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 210
     kd: 17
-    scheduled_date: "2026-10-30"
+    scheduled_date: "2027-02-05"
     status: todo
     published_date: null
     published_url_fr: null
@@ -830,7 +830,7 @@ articles:
     category: "Conseils pratiques"
     volume: 210
     kd: 33
-    scheduled_date: "2026-11-06"
+    scheduled_date: "2027-02-09"
     status: todo
     published_date: null
     published_url_fr: null
@@ -841,7 +841,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 140
     kd: 36
-    scheduled_date: "2026-11-13"
+    scheduled_date: "2027-02-12"
     status: todo
     published_date: null
     published_url_fr: null
@@ -852,7 +852,7 @@ articles:
     category: "Electrique"
     volume: 20
     kd: null
-    scheduled_date: "2026-11-20"
+    scheduled_date: "2027-02-16"
     status: todo
     published_date: null
     published_url_fr: null
@@ -863,7 +863,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 50
     kd: 25
-    scheduled_date: "2026-11-27"
+    scheduled_date: "2027-02-19"
     status: todo
     published_date: null
     published_url_fr: null
@@ -874,7 +874,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 140
     kd: 31
-    scheduled_date: "2026-12-04"
+    scheduled_date: "2027-02-23"
     status: todo
     published_date: null
     published_url_fr: null
@@ -885,7 +885,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 20
     kd: null
-    scheduled_date: "2026-12-11"
+    scheduled_date: "2027-02-26"
     status: todo
     published_date: null
     published_url_fr: null
@@ -896,7 +896,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: 140
     kd: 37
-    scheduled_date: "2026-12-18"
+    scheduled_date: "2027-03-02"
     status: todo
     published_date: null
     published_url_fr: null
@@ -913,7 +913,7 @@ articles:
     category: "Financement"
     volume: null
     kd: null
-    scheduled_date: "2026-12-25"
+    scheduled_date: "2027-03-05"
     status: todo
     published_date: null
     published_url_fr: null
@@ -924,7 +924,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: null
     kd: null
-    scheduled_date: "2027-01-01"
+    scheduled_date: "2027-03-09"
     status: todo
     published_date: null
     published_url_fr: null
@@ -935,7 +935,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-01-08"
+    scheduled_date: "2027-03-12"
     status: todo
     published_date: null
     published_url_fr: null
@@ -946,7 +946,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2027-01-15"
+    scheduled_date: "2027-03-16"
     status: todo
     published_date: null
     published_url_fr: null
@@ -957,7 +957,7 @@ articles:
     category: "Financement"
     volume: null
     kd: null
-    scheduled_date: "2027-01-22"
+    scheduled_date: "2027-03-19"
     status: todo
     published_date: null
     published_url_fr: null
@@ -968,7 +968,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: null
     kd: null
-    scheduled_date: "2027-01-29"
+    scheduled_date: "2027-03-23"
     status: todo
     published_date: null
     published_url_fr: null
@@ -979,7 +979,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-02-05"
+    scheduled_date: "2027-03-26"
     status: todo
     published_date: null
     published_url_fr: null
@@ -990,7 +990,7 @@ articles:
     category: "Financement"
     volume: null
     kd: null
-    scheduled_date: "2027-02-12"
+    scheduled_date: "2027-03-30"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1001,7 +1001,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2027-02-19"
+    scheduled_date: "2027-04-02"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1012,7 +1012,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-02-26"
+    scheduled_date: "2027-04-06"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1023,7 +1023,7 @@ articles:
     category: "Concessionnaires"
     volume: null
     kd: null
-    scheduled_date: "2027-03-05"
+    scheduled_date: "2027-04-09"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1034,7 +1034,7 @@ articles:
     category: "Financement"
     volume: null
     kd: null
-    scheduled_date: "2027-03-12"
+    scheduled_date: "2027-04-13"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1045,7 +1045,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2027-03-19"
+    scheduled_date: "2027-04-16"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1061,7 +1061,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-03-26"
+    scheduled_date: "2027-04-20"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1072,7 +1072,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2027-04-02"
+    scheduled_date: "2027-04-23"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1083,7 +1083,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-04-09"
+    scheduled_date: "2027-04-27"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1094,7 +1094,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2027-04-16"
+    scheduled_date: "2027-04-30"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1105,7 +1105,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: null
     kd: null
-    scheduled_date: "2027-04-23"
+    scheduled_date: "2027-05-04"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1116,7 +1116,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-04-30"
+    scheduled_date: "2027-05-07"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1127,7 +1127,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2027-05-07"
+    scheduled_date: "2027-05-11"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1149,7 +1149,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2027-05-21"
+    scheduled_date: "2027-05-18"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1160,7 +1160,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: null
     kd: null
-    scheduled_date: "2027-05-28"
+    scheduled_date: "2027-05-21"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1171,7 +1171,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-06-04"
+    scheduled_date: "2027-05-25"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1182,7 +1182,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2027-06-11"
+    scheduled_date: "2027-05-28"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1193,7 +1193,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-06-18"
+    scheduled_date: "2027-06-01"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1204,7 +1204,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: null
     kd: null
-    scheduled_date: "2027-06-25"
+    scheduled_date: "2027-06-04"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1215,7 +1215,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-07-02"
+    scheduled_date: "2027-06-08"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1226,7 +1226,7 @@ articles:
     category: "Financement"
     volume: null
     kd: null
-    scheduled_date: "2027-07-09"
+    scheduled_date: "2027-06-11"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1237,7 +1237,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-07-16"
+    scheduled_date: "2027-06-15"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1248,7 +1248,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2027-07-23"
+    scheduled_date: "2027-06-18"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1259,7 +1259,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-07-30"
+    scheduled_date: "2027-06-22"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1270,7 +1270,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: null
     kd: null
-    scheduled_date: "2027-08-06"
+    scheduled_date: "2027-06-25"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1281,7 +1281,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-08-13"
+    scheduled_date: "2027-06-29"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1292,7 +1292,7 @@ articles:
     category: "Financement"
     volume: null
     kd: null
-    scheduled_date: "2027-08-20"
+    scheduled_date: "2027-07-02"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1303,7 +1303,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-08-27"
+    scheduled_date: "2027-07-06"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1314,7 +1314,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2027-09-03"
+    scheduled_date: "2027-07-09"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1325,7 +1325,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-09-10"
+    scheduled_date: "2027-07-13"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1336,7 +1336,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: null
     kd: null
-    scheduled_date: "2027-09-17"
+    scheduled_date: "2027-07-16"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1347,7 +1347,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-09-24"
+    scheduled_date: "2027-07-20"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1358,7 +1358,7 @@ articles:
     category: "Financement"
     volume: null
     kd: null
-    scheduled_date: "2027-10-01"
+    scheduled_date: "2027-07-23"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1369,7 +1369,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-10-08"
+    scheduled_date: "2027-07-27"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1380,7 +1380,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2027-10-15"
+    scheduled_date: "2027-07-30"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1391,7 +1391,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-10-22"
+    scheduled_date: "2027-08-03"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1402,7 +1402,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: null
     kd: null
-    scheduled_date: "2027-10-29"
+    scheduled_date: "2027-08-06"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1413,7 +1413,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-11-05"
+    scheduled_date: "2027-08-10"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1424,7 +1424,7 @@ articles:
     category: "Financement"
     volume: null
     kd: null
-    scheduled_date: "2027-11-12"
+    scheduled_date: "2027-08-13"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1435,7 +1435,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2027-11-19"
+    scheduled_date: "2027-08-17"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1446,7 +1446,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-11-26"
+    scheduled_date: "2027-08-20"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1457,7 +1457,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: null
     kd: null
-    scheduled_date: "2027-12-03"
+    scheduled_date: "2027-08-24"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1468,7 +1468,7 @@ articles:
     category: "Financement"
     volume: null
     kd: null
-    scheduled_date: "2027-12-10"
+    scheduled_date: "2027-08-27"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1479,7 +1479,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2027-12-17"
+    scheduled_date: "2027-08-31"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1490,7 +1490,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2027-12-24"
+    scheduled_date: "2027-09-03"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1501,7 +1501,7 @@ articles:
     category: "Modeles et comparatifs"
     volume: null
     kd: null
-    scheduled_date: "2027-12-31"
+    scheduled_date: "2027-09-07"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1512,7 +1512,7 @@ articles:
     category: "Financement"
     volume: null
     kd: null
-    scheduled_date: "2028-01-07"
+    scheduled_date: "2027-09-10"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1523,7 +1523,7 @@ articles:
     category: "Conseils pratiques"
     volume: null
     kd: null
-    scheduled_date: "2028-01-14"
+    scheduled_date: "2027-09-14"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1534,7 +1534,7 @@ articles:
     category: "Electrique"
     volume: null
     kd: null
-    scheduled_date: "2028-01-21"
+    scheduled_date: "2027-09-17"
     status: todo
     published_date: null
     published_url_fr: null
@@ -1545,7 +1545,7 @@ articles:
     category: "Concessionnaires"
     volume: null
     kd: null
-    scheduled_date: "2028-01-28"
+    scheduled_date: "2027-09-21"
     status: todo
     published_date: null
     published_url_fr: null
