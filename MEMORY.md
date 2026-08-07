@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 32 (03/08/2026 - 09/08/2026)
+- 2026-08-07 | Prix recharge voiture electrique : tarifs 2026 par mode (FR+EN) | Electrique | auto (crazyserp)
 - 2026-08-03 | Meilleur concessionnaire Geely : le comparatif 2026 (FR+EN) | Concessionnaires | GEO
 
 ## Semaine 31 (27/07/2026 - 02/08/2026)

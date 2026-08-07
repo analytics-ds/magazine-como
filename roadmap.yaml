@@ -336,10 +336,10 @@ articles:
     volume: 3100
     kd: 27
     scheduled_date: "2026-08-07"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-08-07"
+    published_url_fr: "https://magazine.como.fr/blog/prix-recharge-voiture-electrique/"
+    published_url_en: "https://magazine.como.fr/en/blog/electric-car-charging-price/"
     error: null
 
   - kw: "voiture chinoise"
