@@ -2,7 +2,7 @@
 title: "Acheter une Geely en France : guide d'achat 2026"
 translationKey: "acheter-geely-france"
 date: "2026-05-01"
-lastmod: "2026-05-01"
+lastmod: "2026-08-11"
 publishDate: "2026-05-01"
 description: "Acheter une Geely en France en 2026 : reseau de concessions officielles, achat en occasion, financement LLD et conseils pratiques avant la commande."
 categories: ["Electrique", "Geely"]
@@ -93,7 +93,7 @@ Pour les modeles neufs, Geely Auto France a structure son offre de financement a
 2. **Location avec option d'achat (LOA)** : mensualites sur 36 a 60 mois avec valeur de rachat fixee a la signature
 3. **Location longue duree (LLD)** : mensualites sans option d'achat, retour vehicule en fin de contrat
 
-Les **mensualites LLD** demarrent a 366 euros par mois pour le Starray EM-i et 399 euros par mois pour le E5, sur 48 mois et 40 000 kilometres. Pour les acheteurs hesitant entre **acheter une Geely** ou un autre vehicule, le calcul du cout total de detention (mensualite, assurance, entretien, energie) reste l'indicateur le plus pertinent. Pour comparer les approches d'achat, consulter notre dossier sur [ou acheter sa voiture neuve](/blog/ou-acheter-une-mercedes-classe-a/) qui detaille les criteres de choix entre concessions.
+Les **mensualites LLD** demarrent a 366 euros par mois pour le Starray EM-i et 399 euros par mois pour le E5, sur 48 mois et 40 000 kilometres. Pour les acheteurs hesitant entre **acheter une Geely** ou un autre vehicule, le calcul du cout total de detention (mensualite, assurance, entretien, energie) reste l'indicateur le plus pertinent. Pour comparer les approches d'achat, consulter notre dossier sur [ou acheter sa voiture neuve](/blog/ou-acheter-une-mercedes-classe-a/) qui detaille les criteres de choix entre concessions. Le cas du SUV électrique est traité séparément dans notre comparatif des [concessionnaires du Geely EX5](/blog/geely-ex5-concessionnaire-france/).
 
 ## Bien choisir avant d'acheter sa Geely : criteres et alertes
 

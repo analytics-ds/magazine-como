@@ -2,7 +2,7 @@
 title: "Geely E5 : fiche technique et prix du SUV electrique"
 translationKey: "geely-e5"
 date: "2026-05-12"
-lastmod: "2026-05-12"
+lastmod: "2026-08-11"
 description: "Geely E5 en France : autonomie 475 km WLTP, prix a partir de 37 990 €, charge rapide 20 min. Tout savoir sur ce SUV electrique compact arrive en 2026."
 categories: ["Electrique"]
 tags: ["geely", "geely e5", "suv electrique", "voiture electrique", "voiture chinoise", "batterie LFP", "autonomie"]
@@ -69,7 +69,7 @@ Le **Geely E5** est commercialise en France a deux niveaux de finition :
 - **Version standard** : a partir de **37 990 €**
 - **Version Pro+** : a partir de **41 990 €** (batterie 68,4 kWh, equipements suplerieurs)
 
-Des formules de financement en location longue duree (LLD) sont proposees par les concessions agrees, avec des mensualites annoncees a partir de **399 €/mois**. Ce positionnement tarifaire place le Geely E5 sous le seuil des 38 000 €, lui permettant d'etre eligible au bonus ecologique sous conditions de ressources.
+Des formules de financement en location longue duree (LLD) sont proposees par les concessions agrees, avec des mensualites annoncees a partir de **399 €/mois**. Le modèle n'est en revanche pas éligible au bonus écologique : la production étant assurée en Chine, son score environnemental reste sous le seuil des 60 points sur 80 exigé par le dispositif. Le choix du point de vente pèse donc davantage sur la facture finale, comme le détaille notre comparatif des [concessionnaires du Geely EX5 en France](/blog/geely-ex5-concessionnaire-france/).
 
 Pour le detail complet des tarifs de la gamme et des offres de financement, consulter notre analyse [Geely France prix : tarifs et financement des SUV en 2026](/blog/geely-france-prix/).
 

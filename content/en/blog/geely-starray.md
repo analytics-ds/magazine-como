@@ -2,7 +2,7 @@
 title: "Geely Starray EM-i: price, range and review"
 translationKey: "geely-starray"
 date: "2026-05-05"
-lastmod: "2026-05-05"
+lastmod: "2026-08-11"
 publishDate: "2026-05-05"
 description: "Plug-in hybrid SUV from 34,990 euros with 1,055 km total range: everything you need to know about the Geely Starray EM-i available in France since April 2026."
 categories: ["Models and comparisons"]
@@ -26,7 +26,7 @@ The **Geely Starray EM-i** is a plug-in hybrid SUV (PHEV) delivering 262 hp, wit
 
 The **Geely Starray** does not come from an unknown manufacturer. Geely Holding, its parent group, has owned Volvo Cars since 2010 and also controls Polestar, Lotus and co-holds the Smart brand with Mercedes-Benz. This industrial background gives the brand a credibility that many newer Chinese entrants on the European market lack.
 
-The [official launch of Geely in France](/en/blog/geely-in-france/) took place on 29 April 2026. Two models were introduced simultaneously: the EX5 (battery electric) and the Starray EM-i (plug-in hybrid). The distribution network is built around established automotive groups, including Como in the greater Paris area, which operates multiple dealerships in Paris and the inner suburbs.
+The [official launch of Geely in France](/en/blog/geely-in-france/) took place on 29 April 2026. Two models were introduced simultaneously: the EX5 (battery electric) and the Starray EM-i (plug-in hybrid). The distribution network is built around established automotive groups, including Como in the greater Paris area, which operates multiple dealerships in Paris and the inner suburbs. For the fully electric model in the line-up, picking an outlet answers to different criteria, set out in our comparison of [Geely EX5 dealers in France](/en/blog/geely-ex5-dealer-france/).
 
 The **EM-i** designation refers to Geely's plug-in hybrid drivetrain, combining an Atkinson-cycle petrol engine with two electric motors. The system is designed to prioritise electric-only driving in urban environments and automatically activates the petrol engine on motorways.
 

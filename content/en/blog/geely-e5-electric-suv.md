@@ -2,7 +2,7 @@
 title: "Geely E5: specs, range and price of the electric SUV"
 translationKey: "geely-e5"
 date: "2026-05-12"
-lastmod: "2026-05-12"
+lastmod: "2026-08-11"
 description: "Geely E5 in France: 475 km WLTP range, starting at 37,990 €, 20-min fast charge. Full specs and pricing of the compact electric SUV launched in 2026."
 categories: ["Electric"]
 tags: ["geely", "geely e5", "electric suv", "electric car", "chinese car", "LFP battery", "range"]
@@ -69,7 +69,7 @@ The **Geely E5** is sold in France in two trim levels:
 - **Standard version**: from **37,990 €**
 - **Pro+ version**: from **41,990 €** (68.4 kWh battery, enhanced equipment)
 
-Long-term lease (LLD) financing is available through authorised dealers, with monthly payments announced from **399 €/month**. This pricing positions the Geely E5 just below the 38,000 € threshold, potentially making it eligible for the French electric vehicle bonus subject to income conditions.
+Long-term lease (LLD) financing is available through authorised dealers, with monthly payments announced from **399 €/month**. The model is not eligible for the French ecological bonus, however: as production takes place in China, its environmental score stays below the 60 out of 80 threshold the scheme requires. The choice of outlet therefore weighs more heavily on the final invoice, as set out in our comparison of [Geely EX5 dealers in France](/en/blog/geely-ex5-dealer-france/).
 
 For a full breakdown of Geely pricing and financing options, see our analysis of [Geely France prices: SUV tariffs and financing in 2026](/en/blog/geely-france-price/).
 

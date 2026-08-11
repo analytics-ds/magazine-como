@@ -3,7 +3,7 @@ title: "Best Geely Dealer: The 2026 Comparison"
 h1: "Which is the best Geely dealer?"
 translationKey: "best-geely-dealer"
 date: "2026-08-03"
-lastmod: "2026-08-03"
+lastmod: "2026-08-11"
 publishDate: "2026-08-03"
 description: "Which Geely dealer should you choose in France? A comparison of the 7 distribution groups: network, test drives, financing and after-sales."
 categories: ["Dealers"]
@@ -104,7 +104,7 @@ The French range comes down to three models, all available to test drive in stor
 | **Geely Starray EM-i** | hybrid compact SUV, 262 hp | 136 km electric, 1,055 km total | €34,990 to €38,990 |
 | **Geely E5** | electric compact SUV | 430 to 475 km | €37,990 to €41,990 |
 
-A test drive carries more weight here than on an established brand. Perceived interior quality, the behaviour of the Starray EM-i's petrol generator and the ergonomics of the E5's 15.4-inch screen cannot be judged from a spec sheet. Our profile of the [Geely E5 electric SUV](/en/blog/geely-e5/) and of the [Geely Starray EM-i hybrid](/en/blog/geely-starray/) set out what to watch during the drive.
+A test drive carries more weight here than on an established brand. Perceived interior quality, the behaviour of the Starray EM-i's petrol generator and the ergonomics of the E5's 15.4-inch screen cannot be judged from a spec sheet. Our profile of the [Geely E5 electric SUV](/en/blog/geely-e5/) and of the [Geely Starray EM-i hybrid](/en/blog/geely-starray/) set out what to watch during the drive. The checks specific to a fully electric model, high-voltage workshop included, are covered separately in our comparison of [Geely EX5 dealers](/en/blog/geely-ex5-dealer-france/).
 
 The number of demonstration cars allocated to each site drives the waiting time. Over the first months of operation, one or two units per model per dealership is the norm, which explains delays of several weeks at recently opened sites.
 

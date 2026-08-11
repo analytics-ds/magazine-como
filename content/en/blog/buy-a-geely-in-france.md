@@ -2,7 +2,7 @@
 title: "Buy a Geely in France: 2026 buying guide"
 translationKey: "acheter-geely-france"
 date: "2026-05-01"
-lastmod: "2026-05-01"
+lastmod: "2026-08-11"
 publishDate: "2026-05-01"
 description: "How to buy a Geely in France in 2026: official dealer network, second-hand purchase, LLD financing and practical tips before placing an order."
 categories: ["Electric", "Geely"]
@@ -93,7 +93,7 @@ For new models, Geely Auto France structured its financing offer with **CA Auto 
 2. **Lease-to-own (LOA)**: monthly payments over 36 to 60 months with buyback value fixed at signing
 3. **Long-term leasing (LLD)**: monthly payments without purchase option, vehicle return at end of contract
 
-**LLD monthly payments** start at 366 euros per month for the Starray EM-i and 399 euros per month for the E5, over 48 months and 40,000 kilometres. For buyers hesitating whether to **buy a Geely** or another vehicle, calculating the total cost of ownership (monthly payment, insurance, maintenance, energy) remains the most relevant indicator.
+**LLD monthly payments** start at 366 euros per month for the Starray EM-i and 399 euros per month for the E5, over 48 months and 40,000 kilometres. For buyers hesitating whether to **buy a Geely** or another vehicle, calculating the total cost of ownership (monthly payment, insurance, maintenance, energy) remains the most relevant indicator. The electric SUV is covered separately in our comparison of [Geely EX5 dealers in France](/en/blog/geely-ex5-dealer-france/).
 
 ## Choosing wisely before buying your Geely: criteria and alerts
 

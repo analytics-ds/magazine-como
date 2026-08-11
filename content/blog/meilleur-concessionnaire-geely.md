@@ -3,7 +3,7 @@ title: "Meilleur concessionnaire Geely : le comparatif 2026"
 h1: "Quel est le meilleur concessionnaire Geely ?"
 translationKey: "best-geely-dealer"
 date: "2026-08-03"
-lastmod: "2026-08-03"
+lastmod: "2026-08-11"
 publishDate: "2026-08-03"
 description: "Quel concessionnaire Geely choisir en France ? Comparatif des 7 groupes distributeurs : réseau, essai, financement et après-vente."
 categories: ["Concessionnaires"]
@@ -104,7 +104,7 @@ Le catalogue français tient en trois modèles, tous réservables à l'essai en 
 | **Geely Starray EM-i** | SUV compact hybride, 262 ch | 136 km en électrique, 1 055 km au total | 34 990 à 38 990 € |
 | **Geely E5** | SUV compact électrique | 430 à 475 km | 37 990 à 41 990 € |
 
-L'essai a plus d'importance ici que sur une marque connue. La qualité perçue de l'habitacle, le comportement du générateur thermique du Starray EM-i et l'ergonomie de l'écran de 15,4 pouces du E5 ne se jugent pas sur une fiche technique. Notre fiche du [Geely E5, SUV électrique de 475 km d'autonomie](/blog/geely-e5/), et celle du [Geely Starray EM-i hybride](/blog/geely-starray/) précisent quoi surveiller pendant la prise en main.
+L'essai a plus d'importance ici que sur une marque connue. La qualité perçue de l'habitacle, le comportement du générateur thermique du Starray EM-i et l'ergonomie de l'écran de 15,4 pouces du E5 ne se jugent pas sur une fiche technique. Notre fiche du [Geely E5, SUV électrique de 475 km d'autonomie](/blog/geely-e5/), et celle du [Geely Starray EM-i hybride](/blog/geely-starray/) précisent quoi surveiller pendant la prise en main. Les points à contrôler sur un modèle 100 % électrique, atelier haute tension compris, sont traités à part dans notre comparatif des [concessionnaires du Geely EX5](/blog/geely-ex5-concessionnaire-france/).
 
 Le nombre de véhicules de démonstration alloués à chaque site conditionne le délai. Sur les premiers mois d'exploitation, un ou deux exemplaires par modèle et par concession constituent la norme, ce qui explique des attentes de plusieurs semaines sur les sites récents.
 

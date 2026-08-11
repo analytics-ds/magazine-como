@@ -2,7 +2,7 @@
 title: "Geely Starray EM-i : prix, autonomie et avis"
 translationKey: "geely-starray"
 date: "2026-05-05"
-lastmod: "2026-05-05"
+lastmod: "2026-08-11"
 publishDate: "2026-05-05"
 description: "SUV hybride rechargeable a partir de 34 990 euros, 1 055 km d'autonomie totale : tout savoir sur le Geely Starray EM-i disponible en France depuis avril 2026."
 categories: ["Modeles et comparatifs"]
@@ -26,7 +26,7 @@ Le **Geely Starray EM-i** est un SUV hybride rechargeable (PHEV) propulse par un
 
 Le **Geely Starray** n'arrive pas d'un constructeur inconnu. Geely Holding, son groupe parent, est proprietaire de Volvo Cars depuis 2010, de Polestar, de Lotus et co-detenteur de la marque Smart avec Mercedes-Benz. Cette trajectoire industrielle confere a la marque une credibilite qui manque a nombre de nouveaux entrants chinois sur le marche europeen.
 
-Le [lancement officiel de Geely en France](/blog/geely-france/) a eu lieu le 29 avril 2026. Deux modeles ont ete presentes simultanement : le E5 (electrique pur) et le Starray EM-i (hybride rechargeable). Le reseau de distribution s'appuie sur des groupes automobiles etablis, dont Como en Ile-de-France, qui couvre plusieurs concessions a Paris et dans la petite couronne.
+Le [lancement officiel de Geely en France](/blog/geely-france/) a eu lieu le 29 avril 2026. Deux modeles ont ete presentes simultanement : le E5 (electrique pur) et le Starray EM-i (hybride rechargeable). Le reseau de distribution s'appuie sur des groupes automobiles etablis, dont Como en Ile-de-France, qui couvre plusieurs concessions a Paris et dans la petite couronne. Pour la version 100 % électrique du catalogue, le choix du point de vente répond à d'autres critères, détaillés dans notre comparatif des [concessionnaires du Geely EX5 en France](/blog/geely-ex5-concessionnaire-france/).
 
 La denomination **EM-i** designe le systeme de traction hybride de Geely, base sur un moteur thermique a cycle Atkinson et deux moteurs electriques. Ce systeme, proche de l'architecture des hybrides rechargeables de serie E et F de Mercedes, est concu pour privilegier le mode electrique en usage urbain et activer automatiquement le moteur thermique sur autoroute.
 
