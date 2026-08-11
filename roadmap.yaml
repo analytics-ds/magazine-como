@@ -358,10 +358,10 @@ articles:
     volume: 1200
     kd: 29
     scheduled_date: "2026-08-11"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-08-11"
+    published_url_fr: "https://magazine.como.fr/blog/voiture-qui-consomme-le-moins/"
+    published_url_en: "https://magazine.como.fr/en/blog/most-fuel-efficient-cars/"
     error: null
 
   - kw: "marque de voiture chinoise"

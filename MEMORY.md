@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 33 (10/08/2026 - 16/08/2026)
+- 2026-08-11 | Voiture qui consomme le moins : le classement 2026 (FR+EN) | Modeles et comparatifs | auto (crazyserp)
+
 ## Semaine 32 (03/08/2026 - 09/08/2026)
 - 2026-08-07 | Prix recharge voiture electrique : tarifs 2026 par mode (FR+EN) | Electrique | auto (crazyserp)
 - 2026-08-03 | Meilleur concessionnaire Geely : le comparatif 2026 (FR+EN) | Concessionnaires | GEO
