@@ -68,6 +68,8 @@ For finance purchases, the [Geely pricing and financing options](/en/blog/geely-
 
 The Starray also benefits from Geely's **8-year or 200,000 km manufacturer warranty**, which is a significant competitive advantage over European standards (typically 3 to 5 years on the powertrain).
 
+A warranty that long implies eight years of workshop visits, which shifts part of the decision onto the sales outlet. The criteria to check, including the dual combustion and high-voltage competence a plug-in hybrid demands, are set out in our comparison of [Geely Starray dealers](/en/blog/geely-starray-dealer-france/).
+
 ## Equipment and on-board technology
 
 The **Geely Starray EM-i** is positioned as a high-end technology SUV. Standard equipment includes:

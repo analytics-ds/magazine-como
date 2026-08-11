@@ -128,6 +128,8 @@ Le point qui fâche : aucun distributeur ne publie le nombre de techniciens habi
 
 Une formulation simple suffit : combien de techniciens habilités haute tension travaillent sur ce site, et si la réponse est aucun, vers quel atelier du groupe la voiture partira-t-elle pour un diagnostic de batterie.
 
+Sur un hybride rechargeable, la même question se double d'un volet thermique, puisque le moteur essence conserve son propre programme d'entretien. Cette configuration à deux étages est traitée dans notre comparatif des [concessionnaires du Geely Starray](/blog/geely-starray-concessionnaire/).
+
 ## Recharge, V2L et essai : trois tests à faire en concession {#essai}
 
 Le premier test porte sur la borne. Le E5 accepte une charge rapide capable de passer de 30 % à 80 % en 20 minutes, mais cette performance réclame un chargeur DC de 150 kW minimum. Un site équipé d'une simple wallbox 11 kW en courant alternatif, avec laquelle une charge complète prend environ huit heures sur une prise 7 kW, ne permet ni de vérifier la courbe de charge ni de livrer un véhicule à 100 %.

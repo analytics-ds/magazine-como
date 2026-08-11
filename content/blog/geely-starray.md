@@ -68,6 +68,8 @@ Pour les achats en financement, les [tarifs et formules de financement Geely](/b
 
 Le Starray beneficie egalement de la garantie constructeur de **8 ans ou 200 000 km** annoncee par Geely pour l'ensemble de sa gamme en France, ce qui constitue un avantage concurrentiel significatif face aux standards europeens (generalement 3 a 5 ans sur le groupe motopropulseur).
 
+Une garantie de cette durée suppose huit années de passages en atelier, ce qui déplace une partie de la décision vers le point de vente. Les critères à vérifier, dont la double compétence thermique et haute tension qu'impose un hybride rechargeable, sont détaillés dans notre comparatif des [concessionnaires du Geely Starray](/blog/geely-starray-concessionnaire/).
+
 ## Equipements et technologies embarques
 
 Le **Geely Starray EM-i** est positionne comme un SUV technologique haut de gamme. L'equipement de serie comprend :

@@ -128,6 +128,8 @@ Here is the sticking point: no distributor publishes the number of B2VL-certifie
 
 A simple wording does the job: how many high-voltage certified technicians work at this site, and if the answer is none, which workshop in the group will the car go to for a battery diagnosis.
 
+On a plug-in hybrid, the same question carries a combustion component too, since the petrol engine keeps its own servicing schedule. That two-tier configuration is covered in our comparison of [Geely Starray dealers](/en/blog/geely-starray-dealer-france/).
+
 ## Charging, V2L and test drive: three checks to run at the dealership {#testdrive}
 
 The first check concerns the charger. The E5 accepts fast charging able to go from 30 % to 80 % in 20 minutes, but that performance requires a DC charger of at least 150 kW. A site fitted with a plain 11 kW AC wallbox, on which a full charge takes around eight hours from a 7 kW supply, allows neither a check of the charging curve nor delivery of a vehicle at 100 %.

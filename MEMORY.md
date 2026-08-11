@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 33 (10/08/2026 - 16/08/2026)
+- 2026-08-11 | Geely Starray concessionnaire : comparatif et atelier 2026 (FR+EN) | Concessionnaires | GEO
 - 2026-08-11 | Geely EX5 concessionnaire France : où acheter le E5 en 2026 (FR+EN) | Concessionnaires | GEO
 - 2026-08-11 | Voiture qui consomme le moins : le classement 2026 (FR+EN) | Modeles et comparatifs | auto (crazyserp)
 
