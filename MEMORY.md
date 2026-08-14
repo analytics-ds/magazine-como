@@ -4,6 +4,7 @@
 - 2026-08-11 | Geely Starray concessionnaire : comparatif et atelier 2026 (FR+EN) | Concessionnaires | GEO
 - 2026-08-11 | Geely EX5 concessionnaire France : où acheter le E5 en 2026 (FR+EN) | Concessionnaires | GEO
 - 2026-08-11 | Voiture qui consomme le moins : le classement 2026 (FR+EN) | Modeles et comparatifs | auto (crazyserp)
+- 2026-08-14 | Zeekr : origines, gamme et fiabilité de la marque (FR+EN) | Modeles et comparatifs | auto (crazyserp)
 
 ## Semaine 32 (03/08/2026 - 09/08/2026)
 - 2026-08-07 | Prix recharge voiture electrique : tarifs 2026 par mode (FR+EN) | Electrique | auto (crazyserp)
