@@ -81,10 +81,10 @@ articles:
     volume: 590
     kd: null
     scheduled_date: "2026-08-18"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-08-18"
+    published_url_fr: "https://magazine.como.fr/blog/geely-voiture-prix/"
+    published_url_en: "https://magazine.como.fr/en/blog/geely-car-price/"
     error: null
 
   - kw: "concessionnaire geely"
