@@ -402,10 +402,10 @@ articles:
     volume: 500
     kd: 25
     scheduled_date: "2026-08-21"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-08-21"
+    published_url_fr: "https://magazine.como.fr/blog/voiture-essence-qui-consomme-le-moins/"
+    published_url_en: "https://magazine.como.fr/en/blog/most-fuel-efficient-petrol-cars/"
     error: null
 
   - kw: "geely volvo"
