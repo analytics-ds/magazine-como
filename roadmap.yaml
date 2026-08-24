@@ -1552,3 +1552,74 @@ articles:
     published_url_en: null
     error: null
 
+
+  # === BLOC ZEEKR 8X / 9X : modeles distribues par Como, absents de la roadmap (ajout 2026-08-24) ===
+  # Volume Haloscan France = 0 sur tous ces mots-cles : modeles trop recents, pas encore
+  # commercialises en France. Ajout volontaire en antériorité SEO/GEO avant l'ouverture des
+  # commandes. Dates intercalaires (mercredi) pour passer devant le backlog 2027.
+
+  - kw: "zeekr 9x"
+    category: "Modeles et comparatifs"
+    volume: 0
+    kd: null
+    scheduled_date: "2026-09-09"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "zeekr 9x france"
+    category: "Electrique"
+    volume: 0
+    kd: null
+    scheduled_date: "2026-09-16"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "zeekr 9x prix"
+    category: "Financement"
+    volume: 0
+    kd: null
+    scheduled_date: "2026-09-23"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "zeekr 8x ou zeekr 9x quel suv choisir"
+    category: "Conseils pratiques"
+    volume: 0
+    kd: null
+    scheduled_date: "2026-09-30"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "zeekr 8x"
+    category: "Electrique"
+    volume: 0
+    kd: null
+    scheduled_date: "2026-10-07"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "zeekr 8x prix france"
+    category: "Financement"
+    volume: 0
+    kd: null
+    scheduled_date: "2026-10-14"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
