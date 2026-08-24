@@ -76,11 +76,11 @@ Seven groups had signed by late April 2026, at the commercial launch. Como cover
 
 Prices are not negotiable within this channel. The importer sets the grid and distributors apply it, which is why a quote issued in Bordeaux shows the same figure as a Parisian one.
 
-| Trim | List price | WLTP electric range | What the level adds |
-|---|---|---|---|
-| Pro | 34,990 € | up to 136 km | entry specification, already complete according to the specialist press |
-| Max | 36,990 € | up to 136 km | mid-range level |
-| Max+ | 38,990 € | 136 km homologated, 150 km measured by L'Argus | version tested by the press |
+| Trim | List price | Battery | WLTP electric range | DC charging |
+|---|---|---|---|---|
+| Pro | 34,990 € | 18.4 kWh | 83 km | 30 kW |
+| Max | 36,990 € | 18.4 kWh | 83 km | 30 kW |
+| Max+ | 38,990 € | 29.8 kWh | 136 km homologated, close to 150 km measured by L'Argus | 60 kW |
 
 What can be negotiated is the trade-in value of the outgoing car and the accessories. The comparison of the [best Geely Starray dealer](/en/blog/geely-starray-dealer-france/) breaks down that room for manoeuvre distributor by distributor.
 
@@ -130,7 +130,7 @@ The manufacturer warranty, announced at up to 8 years or 200,000 km, follows the
 
 The tax treatment is identical everywhere. The Starray EM-i does not qualify for the ecological bonus, which is reserved for fully electric passenger cars, and a plug-in hybrid is excluded by design. It does escape the CO2 malus thanks to its low homologated emissions, and its Crit'Air 1 rating grants access to low-emission zones.
 
-The technical data, finally, does not move: 262 hp from a 1.5-litre engine paired with an electric motor, up to 136 km on electricity and a claimed 1,055 km of total range. Powertrain details are covered in the [Geely Starray EM-i price and range](/en/blog/geely-starray/) fact file.
+The technical data, finally, does not move: 262 hp from a 1.5-litre engine paired with an electric motor, 83 km of electric range on the Pro and Max trims, 136 km on the Max+ alone with its 29.8 kWh battery, and a claimed 1,055 km of total range. Powertrain details are covered in the [Geely Starray EM-i price and range](/en/blog/geely-starray/) fact file.
 
 ## Four checks before signing {#checks}
 

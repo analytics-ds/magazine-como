@@ -76,11 +76,11 @@ Sept groupes étaient signés fin avril 2026, au lancement commercial. Como couv
 
 Dans ce circuit, le prix ne se discute pas. L'importateur fixe la grille et les distributeurs l'appliquent, ce qui explique qu'un devis établi à Bordeaux affiche le même montant qu'un devis parisien.
 
-| Finition | Prix catalogue | Autonomie électrique WLTP | Ce que le niveau apporte |
-|---|---|---|---|
-| Pro | 34 990 € | jusqu'à 136 km | dotation d'entrée, déjà complète selon la presse spécialisée |
-| Max | 36 990 € | jusqu'à 136 km | niveau intermédiaire |
-| Max+ | 38 990 € | 136 km homologués, 150 km mesurés par L'Argus | version testée par la presse |
+| Finition | Prix catalogue | Batterie | Autonomie électrique WLTP | Recharge rapide |
+|---|---|---|---|---|
+| Pro | 34 990 € | 18,4 kWh | 83 km | 30 kW |
+| Max | 36 990 € | 18,4 kWh | 83 km | 30 kW |
+| Max+ | 38 990 € | 29,8 kWh | 136 km homologués, près de 150 km mesurés par L'Argus | 60 kW |
 
 Ce qui se négocie, en revanche, tient à la reprise de l'ancien véhicule et aux accessoires. Le comparatif du [meilleur concessionnaire pour un Geely Starray](/blog/geely-starray-concessionnaire/) détaille ces marges de manoeuvre distributeur par distributeur.
 
@@ -130,7 +130,7 @@ La garantie constructeur, annoncée jusqu'à 8 ans ou 200 000 km, suit le véhic
 
 Le régime fiscal est identique partout. Le Starray EM-i n'a pas droit au bonus écologique, réservé aux voitures particulières 100 % électriques, et un hybride rechargeable en est exclu par construction. Il échappe en revanche au malus CO2 grâce à ses émissions homologuées basses, et son classement Crit'Air 1 lui ouvre les zones à faibles émissions.
 
-La fiche technique, enfin, ne bouge pas : 262 ch issus d'un 1,5 litre associé à un moteur électrique, jusqu'à 136 km en électrique et 1 055 km d'autonomie totale annoncée. Les détails de motorisation sont repris dans la fiche des [prix et de l'autonomie du Geely Starray EM-i](/blog/geely-starray/).
+La fiche technique, enfin, ne bouge pas : 262 ch issus d'un 1,5 litre associé à un moteur électrique, 83 km d'autonomie électrique sur les finitions Pro et Max, 136 km sur la seule Max+ et sa batterie de 29,8 kWh, pour 1 055 km d'autonomie totale annoncée. Les détails de motorisation sont repris dans la fiche des [prix et de l'autonomie du Geely Starray EM-i](/blog/geely-starray/).
 
 ## Quatre vérifications avant de signer {#verifications}
 
