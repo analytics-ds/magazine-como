@@ -130,7 +130,7 @@ Il s'agit d'une location longue durée, pas d'une location avec option d'achat. 
 
 Le loyer ne couvre par ailleurs ni l'immatriculation, ni l'assurance, ni l'entretien. Les 299 € annoncés constituent donc un plancher auquel s'ajoutent des postes que deux concessions du même réseau ne chiffrent pas forcément de la même façon. La peinture métallisée, elle, porte le loyer à 307 € par mois aux mêmes conditions.
 
-Ce choix de la LLD n'est pas neutre pour une marque présente depuis quatre mois sur le marché français. Personne ne connaît encore la valeur de revente d'un Starray EM-i à quatre ans, et une location longue durée place ce risque chez le bailleur plutôt que chez le conducteur. Les repères de tarification de l'ensemble de la gamme sont détaillés dans notre point sur le [prix des Geely en France](/blog/geely-france-prix/).
+Ce choix de la LLD n'est pas neutre pour une marque présente depuis quatre mois sur le marché français. Personne ne connaît encore la valeur de revente d'un Starray EM-i à quatre ans, et une location longue durée place ce risque chez le bailleur plutôt que chez le conducteur. Les repères de tarification de l'ensemble de la gamme sont détaillés dans notre point sur le [prix des Geely en France](/blog/geely-france-prix/). La location n'est du reste qu'un des quatre circuits possibles : le panorama de [où acheter un Geely Starray](/blog/acheter-geely-starray-france/) confronte le réseau agréé, le mandataire, le véhicule de démonstration et la LLD sur le prix comme sur le délai.
 
 ## La reprise, seul poste réellement négociable {#reprise}
 

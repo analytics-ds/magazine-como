@@ -130,7 +130,7 @@ This is a long-term lease, not a lease-purchase. The distinction is structural: 
 
 The monthly figure covers neither registration, nor insurance, nor servicing. The advertised 299 € is therefore a floor, on top of which sit items that two dealerships in the same network will not necessarily price the same way. Metallic paint, for its part, raises the figure to 307 € per month on the same terms.
 
-Choosing a long-term lease is not a neutral move for a brand present on the French market for four months. Nobody yet knows the resale value of a Starray EM-i at four years old, and a long-term lease places that risk with the lessor rather than the driver. Pricing benchmarks for the whole range are set out in our review of [Geely prices in France](/en/blog/geely-france-price/).
+Choosing a long-term lease is not a neutral move for a brand present on the French market for four months. Nobody yet knows the resale value of a Starray EM-i at four years old, and a long-term lease places that risk with the lessor rather than the driver. Pricing benchmarks for the whole range are set out in our review of [Geely prices in France](/en/blog/geely-france-price/). Leasing is only one of four possible routes: the overview of [where to buy a Geely Starray](/en/blog/where-to-buy-geely-starray/) sets the approved network, the broker, the demonstration vehicle and the lease against each other on both price and lead time.
 
 ## Trade-in, the only genuinely negotiable item {#tradein}
 

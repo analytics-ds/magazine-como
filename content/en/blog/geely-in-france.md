@@ -87,4 +87,4 @@ However, several strengths position the brand favourably:
 - Solid distribution network backed by experienced groups
 - Technical heritage shared with Volvo (platforms, electrification)
 
-Initial reviews from the specialist press generally praise the equipment-to-price ratio of both models. For buyers interested in precise pricing and financing options, see our dedicated dossier on [Geely France prices](/en/blog/geely-france-price/) which details the full price grids.
+Initial reviews from the specialist press generally praise the equipment-to-price ratio of both models. For buyers interested in precise pricing and financing options, see our dedicated dossier on [Geely France prices](/en/blog/geely-france-price/) which details the full price grids. The four channels available to [buy a Geely Starray in France](/en/blog/where-to-buy-geely-starray/) are compared price by price in a dedicated guide.

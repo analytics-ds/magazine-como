@@ -60,7 +60,7 @@ At launch, two models are sold in France: the Geely E5 and the Starray EM-i. Bot
 - **Geely E5**: 100% electric SUV, 4.62 metres, 470-475 km WLTP range, 37,990 to 41,990 euros
 - **Geely Starray EM-i**: plug-in hybrid SUV, 4.74 metres, total range over 1,055 km, 34,990 to 38,990 euros
 
-For complete pricing details and trim comparisons, see our dedicated dossier on [Geely France price](/en/blog/geely-france-price/) which details the price grids and financing solutions.
+For complete pricing details and trim comparisons, see our dedicated dossier on [Geely France price](/en/blog/geely-france-price/) which details the price grids and financing solutions. On the plug-in hybrid of the range, the question of where to [buy a Geely Starray](/en/blog/where-to-buy-geely-starray/) plays out differently, since the model also circulates through brokers and heavily discounted demonstration cars.
 
 Other models are announced for the future. An electric sedan called EX2 will complete the range under the 25,000-euro mark. Geely plans to cover 90% of segments of the French market by the end of 2027, with around ten models ranging from city car to family SUV.
 

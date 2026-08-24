@@ -37,7 +37,7 @@ Pour **acheter une Geely** neuve en France, il faut passer par le reseau officie
 
 Ce reseau initial de 18 points de vente est destine a s'etendre rapidement : Geely Auto France vise 70 concessions operationnelles d'ici fin 2026, puis 170 en 2028 et plus de 200 en 2030. Pour comprendre la genese de cette implantation francaise, lire notre dossier complet sur l'arrivee de [Geely France](/blog/geely-france/) qui detaille les ambitions commerciales de la marque.
 
-Le choix d'un distributeur experimente comme Como pour l'Ile-de-France n'est pas anodin : ce groupe distribue deja Mercedes-Benz et beneficie d'une expertise rodee dans l'accompagnement client, le financement et l'apres-vente. **Acheter une Geely** chez un partenaire de cette dimension garantit un service comparable a celui propose pour les marques premium europeennes.
+Le choix d'un distributeur experimente comme Como pour l'Ile-de-France n'est pas anodin : ce groupe distribue deja Mercedes-Benz et beneficie d'une expertise rodee dans l'accompagnement client, le financement et l'apres-vente. **Acheter une Geely** chez un partenaire de cette dimension garantit un service comparable a celui propose pour les marques premium europeennes. Sur le SUV hybride rechargeable de la gamme, la question de savoir [ou acheter un Geely Starray](/blog/acheter-geely-starray-france/) se pose differemment, le modele circulant aussi par des mandataires et des vehicules de demonstration a prix casse.
 
 ## Ou trouver une concession Geely pres de chez vous
 

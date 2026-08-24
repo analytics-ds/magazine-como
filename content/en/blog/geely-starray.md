@@ -101,7 +101,7 @@ The Starray's price advantage is clear: between 8,000 and 11,500 euros less than
 
 For buyers considering a fully electric alternative, the guide to the [best electric car of 2026](/en/blog/best-electric-car/) compares the leading options on the French market, including the Geely EX5.
 
-For anyone still deciding on powertrain type, the [buying a Geely in France](/en/blog/buy-a-geely-in-france/) guide covers the practical steps: model choice, dealer network and financing options.
+For anyone still deciding on powertrain type, the [buying a Geely in France](/en/blog/buy-a-geely-in-france/) guide covers the practical steps: model choice, dealer network and financing options. The four routes to [buy a Geely Starray in France](/en/blog/where-to-buy-geely-starray/), approved dealer, broker, demonstration vehicle and leasing, are compared separately with the prices recorded on each one.
 
 ## Frequently asked questions
 

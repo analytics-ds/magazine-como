@@ -68,7 +68,7 @@ La distribution de **Geely en France** repose sur des partenariats avec cinq gro
 - **Elypse Autos** : Grand Est (Mulhouse, Belfort, Epinal)
 - **Select Auto** : La Rochelle
 
-Le choix de Como pour l'Ile-de-France n'est pas anodin : ce groupe distribue deja Mercedes-Benz et dispose d'une expertise solide dans l'accompagnement des clients sur les solutions de financement, qu'il s'agisse de location avec option d'achat ou de location longue duree. Les acheteurs interesses par une **Geely** dans la region parisienne pourront ainsi beneficier de la meme qualite de service que pour les marques premium europeennes. Pour comprendre comment selectionner le bon point de vente, lire notre guide [comment choisir son concessionnaire](/blog/comment-choisir-son-concessionnaire-mercedes/).
+Le choix de Como pour l'Ile-de-France n'est pas anodin : ce groupe distribue deja Mercedes-Benz et dispose d'une expertise solide dans l'accompagnement des clients sur les solutions de financement, qu'il s'agisse de location avec option d'achat ou de location longue duree. Les acheteurs interesses par une **Geely** dans la region parisienne pourront ainsi beneficier de la meme qualite de service que pour les marques premium europeennes. Pour le SUV hybride rechargeable de la gamme, les quatre canaux permettant d'[acheter un Geely Starray en France](/blog/acheter-geely-starray-france/) sont comparés prix par prix dans un guide dédié. Pour comprendre comment selectionner le bon point de vente, lire notre guide [comment choisir son concessionnaire](/blog/comment-choisir-son-concessionnaire-mercedes/).
 
 ## Les ambitions de Geely sur le marche francais
 

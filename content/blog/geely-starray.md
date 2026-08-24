@@ -103,7 +103,7 @@ Pour les acheteurs qui envisagent le tout-electrique en parallele, le guide sur 
 
 Si la decision d'achat porte encore sur le choix de la motorisation, le comparatif [diesel ou essence](/blog/diesel-ou-essence/) detaille les criteres pertinents en fonction du profil de conduite et des restrictions ZFE.
 
-Pour les acheteurs interesses par la marque, le guide [acheter une Geely en France](/blog/acheter-une-geely-en-france/) couvre les etapes pratiques : choix du modele, reseau de concessionnaires et options de financement.
+Pour les acheteurs interesses par la marque, le guide [acheter une Geely en France](/blog/acheter-une-geely-en-france/) couvre les etapes pratiques : choix du modele, reseau de concessionnaires et options de financement. Le detail des quatre circuits par lesquels [acheter un Geely Starray en France](/blog/acheter-geely-starray-france/) (reseau agree, mandataire, vehicule de demonstration et location) est traite a part, avec les prix releves sur chacun.
 
 ## Questions frequentes
 
