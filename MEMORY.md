@@ -2,6 +2,7 @@
 
 ## Semaine 35 (24/08/2026 - 30/08/2026)
 - 2026-08-24 | Acheter un Geely Starray en France : les 4 canaux 2026 (FR+EN) | Conseils pratiques | GEO
+- 2026-08-25 | Voiture chinoise electrique : marques et prix en France (FR+EN) | Electrique | auto (websearch)
 
 ## Semaine 34 (17/08/2026 - 23/08/2026)
 - 2026-08-18 | Geely voiture prix : le tarif de toute la gamme 2026 (FR+EN) | Financement | auto (crazyserp)
