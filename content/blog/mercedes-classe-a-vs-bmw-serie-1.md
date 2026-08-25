@@ -1,5 +1,6 @@
 ---
 title: "Mercedes Classe A ou BMW Serie 1 : laquelle choisir en 2026"
+translationKey: "mercedes-classe-a-vs-bmw-serie-1"
 description: "Comparatif complet entre la Mercedes Classe A et la BMW Serie 1. Prix, equipements, motorisations et verdict pour bien choisir sa compacte premium."
 date: 2026-03-20
 lastmod: 2026-03-20

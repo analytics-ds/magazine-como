@@ -1,5 +1,6 @@
 ---
 title: "Ou acheter une Mercedes Classe A : guide complet 2026"
+translationKey: "ou-acheter-une-mercedes-classe-a"
 description: "Ou acheter une Mercedes Classe A neuve ou d'occasion ? Comparatif des canaux d'achat, prix et avantages du concessionnaire agréé."
 date: 2026-04-12
 lastmod: 2026-04-12

@@ -1,5 +1,6 @@
 ---
 title: "Meilleur concessionnaire Mercedes GLA : comparatif 2026"
+translationKey: "meilleur-concessionnaire-mercedes-gla"
 date: 2026-04-12
 lastmod: 2026-04-12
 description: "Quel est le meilleur concessionnaire Mercedes GLA ? Comparatif de 4 groupes : reseau, services, prix et avis."

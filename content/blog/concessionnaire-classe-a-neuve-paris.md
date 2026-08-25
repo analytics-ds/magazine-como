@@ -1,5 +1,6 @@
 ---
 title: "Concessionnaire Classe A neuve à Paris : comparatif 2026"
+translationKey: "concessionnaire-classe-a-neuve-paris"
 date: 2026-06-14
 lastmod: 2026-06-14
 description: "Quel concessionnaire choisir pour une Classe A neuve à Paris ? Comparatif des distributeurs officiels et mandataires : prix, proximité, financement."

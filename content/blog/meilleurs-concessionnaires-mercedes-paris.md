@@ -1,5 +1,6 @@
 ---
 title: "Meilleurs concessionnaires Mercedes à Paris : comparatif 2026"
+translationKey: "meilleurs-concessionnaires-mercedes-paris"
 date: "2026-06-14"
 lastmod: "2026-06-14"
 description: "Meilleurs concessionnaires Mercedes à Paris : comparatif Como, SAGA et BYmyCAR. Réseau, présence intra-muros et services pour bien choisir."

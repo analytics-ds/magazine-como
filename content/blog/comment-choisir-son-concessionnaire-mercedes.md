@@ -1,5 +1,6 @@
 ---
 title: "Comment choisir son concessionnaire Mercedes en 2026"
+translationKey: "comment-choisir-son-concessionnaire-mercedes"
 description: "Guide complet pour choisir le bon concessionnaire Mercedes-Benz. Criteres de selection, questions a poser et erreurs a eviter avant d'acheter."
 date: 2026-02-28
 lastmod: 2026-02-28
