@@ -136,10 +136,10 @@ articles:
     volume: 480
     kd: null
     scheduled_date: "2026-08-28"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-08-28"
+    published_url_fr: "https://magazine.como.fr/blog/volvo-chinois/"
+    published_url_en: "https://magazine.como.fr/en/blog/is-volvo-chinese/"
     error: null
 
   - kw: "voiture chinoise prix"
