@@ -147,10 +147,10 @@ articles:
     volume: 1000
     kd: null
     scheduled_date: "2026-09-01"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-01"
+    published_url_fr: "https://magazine.como.fr/blog/voiture-chinoise-prix/"
+    published_url_en: "https://magazine.como.fr/en/blog/chinese-car-price/"
     error: null
 
   - kw: "suv chinois hybride"
