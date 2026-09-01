@@ -1,5 +1,5 @@
 ---
-title: "Volvo chinois : Geely, depuis 2010 | Magazine Como"
+title: "Volvo chinois : Geely, depuis 2010"
 translationKey: "volvo-chinois"
 date: "2026-08-28"
 lastmod: "2026-08-28"

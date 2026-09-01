@@ -1,5 +1,5 @@
 ---
-title: "Is Volvo Chinese: Geely, since 2010 | Magazine Como"
+title: "Is Volvo Chinese: Geely, since 2010"
 translationKey: "volvo-chinois"
 date: "2026-08-28"
 lastmod: "2026-08-28"

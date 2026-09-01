@@ -1,5 +1,5 @@
 ---
-title: "Geely Volvo: The Link Between the Two Brands | Magazine Como"
+title: "Geely Volvo: The Link Between the Two Brands"
 translationKey: "geely-volvo"
 date: "2026-09-01"
 lastmod: "2026-09-01"

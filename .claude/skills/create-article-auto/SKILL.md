@@ -203,11 +203,21 @@ L'agent determine :
 Pas d'appel aux skills `/tech-title` ni `/tech-meta-description`. Regles appliquees directement :
 
 ### Title
-- Contient le `kw` en premier tiers de la balise si possible
-- Max 60 caracteres (proxy safe pour 580px en Arial SERP Google)
-- Format cible : `[Kw] : [angle] | [Nom du site]`
-- Le nom du site vient du `hugo.toml` (`title` global)
+
+**NE JAMAIS ecrire le nom du site dans le `title` du frontmatter.** Le theme l'ajoute deja tout seul : `themes/premium-drive/layouts/_default/baseof.html` rend `{{ .Title }} | {{ .Site.Title }}`. Mettre le suffixe dans le frontmatter le fait sortir **deux fois** dans la balise, et comme le H1 est construit sur `.Title` a defaut de `.Params.h1`, le nom du site se retrouve aussi **dans le H1**. Defaut constate le 2026-09-01 sur 4 pages (`volvo-chinois` et `geely-volvo`, FR + EN), corrige le meme jour. C'est le meme defaut que celui traite sur `meilleur-logiciel-sirh.com` le 2026-08-11, dont le correctif n'avait pas ete propage ici.
+
+- Format du frontmatter : `[Kw] : [angle]`, **sans nom de site, sans separateur final**
+- Contient le `kw` en debut de title
+- **Le budget de 60 caracteres porte sur le title RENDU**, donc frontmatter + suffixe ajoute par le theme. `hugo.toml` declare un seul `title` global, `Magazine Como`, pour les deux langues :
+
+| Langue | `Site.Title` | Suffixe ajoute | Max pour le frontmatter |
+|---|---|---|---|
+| fr | Magazine Como | ` \| Magazine Como` (16) | **44** |
+| en | Magazine Como | ` \| Magazine Como` (16) | **44** |
+
+- Controle avant de continuer : `python3 -c "print(len('<title frontmatter>') + 16)"` doit donner 60 au maximum. Si ca depasse, raccourcir l'angle, jamais le `kw`.
 - **Une seule option, choix direct** (pas de 3 options comme en interactif)
+- Meme regle pour la traduction EN.
 
 ### Meta description
 - Max 155 caracteres (proxy safe pour 920px en Arial SERP)
