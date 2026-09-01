@@ -63,6 +63,7 @@ Como Magazine est un media editorial independant. Tous les articles sont rediges
 - Voiture chinoise electrique : marques et prix en France: https://magazine.como.fr/blog/voiture-chinoise-electrique/
 - Volvo chinois : Geely, depuis 2010: https://magazine.como.fr/blog/volvo-chinois/
 - Voiture chinoise prix : combien budgeter en 2026 ?: https://magazine.como.fr/blog/voiture-chinoise-prix/
+- Geely Volvo : le lien entre les deux marques: https://magazine.como.fr/blog/geely-volvo/
 
 ## Version anglaise (EN)
 
@@ -119,6 +120,7 @@ Como Magazine est un media editorial independant. Tous les articles sont rediges
 - Chinese Electric Car: Brands and Prices in France: https://magazine.como.fr/en/blog/chinese-electric-cars-france/
 - Is Volvo Chinese: Geely, since 2010: https://magazine.como.fr/en/blog/is-volvo-chinese/
 - Chinese Car Price: What to Budget in 2026: https://magazine.como.fr/en/blog/chinese-car-price/
+- Geely Volvo: The Link Between the Two Brands: https://magazine.como.fr/en/blog/geely-volvo/
 
 ## Informations techniques
 

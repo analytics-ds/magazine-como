@@ -1,6 +1,7 @@
 # Journal de publication
 
 ## Semaine 36 (31/08/2026 - 06/09/2026)
+- 2026-09-01 | Geely Volvo : le lien entre les deux marques (FR+EN) | Modeles et comparatifs | auto | mode: datafer | score: 71/47
 - 2026-09-01 | Voiture chinoise prix : combien budgeter en 2026 ? (FR+EN) | Financement | auto (websearch)
 
 ## Semaine 35 (24/08/2026 - 30/08/2026)
