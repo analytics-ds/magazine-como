@@ -319,3 +319,6 @@ Quand l'utilisateur (ou Claude pour son compte) ajoute un nouveau mot-cle dans `
 
 Ce garde-fou est purement informatif. L'utilisateur peut toujours forcer l'ajout. L'objectif est juste de l'avertir avant qu'il ne commande deux articles qui se cannibaliseraient en SERP.
 
+## Images d'article
+
+- **Image hero OBLIGATOIRE, jamais optionnelle.** Elle est recuperee par `.claude/scripts/fetch-image.sh`, qui suit la **cascade Pexels -> Unsplash -> Openverse -> visuel de charte genere** (`.claude/scripts/make-placeholder.py`) et ne rend jamais la main sans visuel. Revue du 2026-09-04 : Openverse n'est plus la source nominale, il ne produisait que 15 photos pertinentes sur 45 heros mesures. Les cles `PEXELS_API_KEY` et `UNSPLASH_ACCESS_KEY` viennent du **prompt de la routine** ou du `.env` local, **jamais du repo** qui est public ; sans cle la cascade demarre a Openverse et l'article sort quand meme. Le registre `.claude/hero-sources.json` empeche deux articles de porter la meme photo. Si `image` est renseigne, `imageAlt` est obligatoire, et `imageCredit` des que le script renvoie un credit. **Controle visuel obligatoire avant publication, quelle que soit la banque.**
