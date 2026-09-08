@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 37 (07/09/2026 - 13/09/2026)
+- 2026-09-08 | SUV chinois hybride : comparatif et prix (FR+EN) | Electrique | auto | mode: datafer | score: 72/49
+
 ## Semaine 36 (31/08/2026 - 06/09/2026)
 - 2026-09-01 | Geely Volvo : le lien entre les deux marques (FR+EN) | Modeles et comparatifs | auto | mode: datafer | score: 71/47
 - 2026-09-01 | Voiture chinoise prix : combien budgeter en 2026 ? (FR+EN) | Financement | auto (websearch)

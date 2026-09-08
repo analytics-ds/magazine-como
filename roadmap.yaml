@@ -158,10 +158,10 @@ articles:
     volume: 1300
     kd: null
     scheduled_date: "2026-09-08"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-08"
+    published_url_fr: "https://magazine.como.fr/blog/suv-chinois-hybride/"
+    published_url_en: "https://magazine.como.fr/en/blog/chinese-hybrid-suv/"
     error: null
 
   - kw: "geely coolray avis"
