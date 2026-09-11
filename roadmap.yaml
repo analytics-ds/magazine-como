@@ -1563,10 +1563,10 @@ articles:
     volume: 0
     kd: null
     scheduled_date: "2026-09-09"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-11"
+    published_url_fr: "https://magazine.como.fr/blog/zeekr-9x/"
+    published_url_en: "https://magazine.como.fr/en/blog/zeekr-9x/"
     error: null
 
   - kw: "zeekr 9x france"

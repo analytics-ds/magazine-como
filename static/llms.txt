@@ -65,6 +65,7 @@ Como Magazine est un media editorial independant. Tous les articles sont rediges
 - Voiture chinoise prix : combien budgeter en 2026 ?: https://magazine.como.fr/blog/voiture-chinoise-prix/
 - Geely Volvo : le lien entre les deux marques: https://magazine.como.fr/blog/geely-volvo/
 - SUV chinois hybride : comparatif et prix: https://magazine.como.fr/blog/suv-chinois-hybride/
+- Zeekr 9X : SUV hybride de luxe: https://magazine.como.fr/blog/zeekr-9x/
 
 ## Version anglaise (EN)
 
@@ -123,6 +124,7 @@ Como Magazine est un media editorial independant. Tous les articles sont rediges
 - Chinese Car Price: What to Budget in 2026: https://magazine.como.fr/en/blog/chinese-car-price/
 - Geely Volvo: The Link Between the Two Brands: https://magazine.como.fr/en/blog/geely-volvo/
 - Chinese Hybrid SUV: Comparison and Prices: https://magazine.como.fr/en/blog/chinese-hybrid-suv/
+- Zeekr 9X: the Super Hybrid SUV: https://magazine.como.fr/en/blog/zeekr-9x/
 
 ## Informations techniques
 
