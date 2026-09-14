@@ -1,5 +1,8 @@
 # Journal de publication
 
+## Semaine 38 (14/09/2026 - 20/09/2026)
+- 2026-09-14 | Zeekr Paris : ou essayer la marque en Ile-de-France (FR+EN) | Concessionnaires | ponctuel | mode: crazyserp (async, 12 min) | image: pexels | AIO: declenchee | source reseau: referentiel officiel Zeekr interroge le 14/09
+
 ## Semaine 37 (07/09/2026 - 13/09/2026)
 - 2026-09-08 | SUV chinois hybride : comparatif et prix (FR+EN) | Electrique | auto | mode: datafer | score: 72/49
 - 2026-09-11 | Zeekr 9X : SUV hybride de luxe (FR+EN) | Modeles et comparatifs | auto | mode: crazyserp (DATAFER status=failed) | score: non mesure | image: pexels | AIO: non declenchee
