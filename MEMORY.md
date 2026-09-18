@@ -2,6 +2,7 @@
 
 ## Semaine 38 (14/09/2026 - 20/09/2026)
 - 2026-09-14 | Zeekr Paris : ou essayer la marque en Ile-de-France (FR+EN) | Concessionnaires | ponctuel | mode: crazyserp (async, 12 min) | image: pexels | AIO: declenchee | source reseau: referentiel officiel Zeekr interroge le 14/09
+- 2026-09-18 | Combien coute une vidange : prix 2026 (FR+EN) | Conseils pratiques | auto | mode: datafer | score: 72/50 | image: pexels | AIO: non verifiee (CrazySERP 500)
 
 ## Semaine 37 (07/09/2026 - 13/09/2026)
 - 2026-09-08 | SUV chinois hybride : comparatif et prix (FR+EN) | Electrique | auto | mode: datafer | score: 72/49

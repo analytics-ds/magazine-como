@@ -422,10 +422,10 @@ articles:
     volume: 1000
     kd: 38
     scheduled_date: "2026-09-18"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-18"
+    published_url_fr: "https://magazine.como.fr/blog/combien-coute-une-vidange/"
+    published_url_en: "https://magazine.como.fr/en/blog/how-much-does-an-oil-change-cost/"
     error: null
 
   - kw: "logo geely"
