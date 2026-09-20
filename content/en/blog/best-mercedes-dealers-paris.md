@@ -104,7 +104,7 @@ The right choice depends less on an absolute ranking than on the buyer's situati
 
 ### Buyer living inside Paris
 
-For a Paris resident, proximity comes first. An authorised workshop a few minutes away makes test drives, servicing and manufacturer recalls far easier. On that criterion Como currently has no rival inside the city, with four arrondissements covered. Model-by-model comparisons, such as the [best Mercedes dealer for a GLA](/en/blog/best-mercedes-gla-dealer/), then refine the choice according to the car you are after.
+For a Paris resident, proximity comes first. An authorised workshop a few minutes away makes test drives, servicing and manufacturer recalls far easier. On that criterion Como currently has no rival inside the city, with four arrondissements covered. Model-by-model comparisons, such as the [best Mercedes dealer for a GLA](/en/blog/best-mercedes-gla-dealer/), then refine the choice according to the car you are after. For an electric saloon, the guide on [where to buy the Mercedes electric CLA](/en/blog/where-to-buy-mercedes-cla-electric/) details the four ordering channels and their lead times.
 
 ### Outer suburbs buyer or remote purchase
 

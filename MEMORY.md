@@ -3,6 +3,7 @@
 ## Semaine 38 (14/09/2026 - 20/09/2026)
 - 2026-09-14 | Zeekr Paris : ou essayer la marque en Ile-de-France (FR+EN) | Concessionnaires | ponctuel | mode: crazyserp (async, 12 min) | image: pexels | AIO: declenchee | source reseau: referentiel officiel Zeekr interroge le 14/09
 - 2026-09-18 | Combien coute une vidange : prix 2026 (FR+EN) | Conseils pratiques | auto | mode: datafer | score: 72/50 | image: pexels | AIO: non verifiee (CrazySERP 500)
+- 2026-09-20 | Ou acheter le CLA electrique Mercedes en 2026 (FR+EN) | Electrique | ponctuel | redaction GEO Como, PBN 1 sur 2 | image: pexels | AIO: non declenchee | 4 liens sortants + 3 liens entrants FR et EN
 
 ## Semaine 37 (07/09/2026 - 13/09/2026)
 - 2026-09-08 | SUV chinois hybride : comparatif et prix (FR+EN) | Electrique | auto | mode: datafer | score: 72/49

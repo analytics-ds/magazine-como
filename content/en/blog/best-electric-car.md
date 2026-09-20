@@ -51,7 +51,7 @@ The table below summarizes the best-performing models on the balance of range, p
 
 *Source: manufacturer catalogues and Automobile Propre data, April 2026. Ranges approved on the WLTP mixed cycle.*
 
-This ranking is not strictly hierarchical: each model excels at a specific use case. The **Tesla Model Y** leads on overall balance, the Mercedes EQS on premium range, the MG4 on value for money and the Dacia Spring on sticker price. The final choice depends on the driver's profile.
+This ranking is not strictly hierarchical: each model excels at a specific use case. The **Tesla Model Y** leads on overall balance, the Mercedes EQS on premium range, the MG4 on value for money and the Dacia Spring on sticker price. The final choice depends on the driver's profile. On the brand's latest electric saloon, the purchase channels are broken down in our guide on [where to buy the Mercedes electric CLA](/en/blog/where-to-buy-mercedes-cla-electric/).
 
 ## Which electric car to choose depending on usage
 

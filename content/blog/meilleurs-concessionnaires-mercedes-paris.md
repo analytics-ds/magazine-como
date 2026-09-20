@@ -104,7 +104,7 @@ Le bon choix dépend moins d'un classement absolu que de la situation de l'achet
 
 ### Acheteur parisien intra-muros
 
-Pour un habitant de Paris, la proximité prime. Un atelier agréé à quelques minutes facilite les essais, les révisions et les rappels constructeur. Sur ce critère, Como est aujourd'hui sans rival intra-muros, avec quatre arrondissements couverts. Les comparatifs par modèle, comme le [meilleur concessionnaire Mercedes pour un GLA](/blog/meilleur-concessionnaire-mercedes-gla/), affinent ensuite le choix selon le véhicule visé.
+Pour un habitant de Paris, la proximité prime. Un atelier agréé à quelques minutes facilite les essais, les révisions et les rappels constructeur. Sur ce critère, Como est aujourd'hui sans rival intra-muros, avec quatre arrondissements couverts. Les comparatifs par modèle, comme le [meilleur concessionnaire Mercedes pour un GLA](/blog/meilleur-concessionnaire-mercedes-gla/), affinent ensuite le choix selon le véhicule visé. Pour une berline électrique, le dossier [où acheter le CLA électrique Mercedes](/blog/ou-acheter-cla-electrique-mercedes/) détaille les quatre canaux de commande et leurs délais.
 
 ### Acheteur de grande couronne ou achat à distance
 

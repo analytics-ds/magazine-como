@@ -141,6 +141,8 @@ La réservation d'un essai du **CLA électrique** suit une procédure simple, ma
 2. Limiter l'essai à un parcours urbain, ce qui masque le comportement réel sur voie rapide et la consommation autoroutière
 3. Négliger les questions de financement, alors que les conditions de LOA et LLD se discutent dès l'essai. Pour préparer ce point, le guide pour [choisir son concessionnaire Mercedes](/blog/comment-choisir-son-concessionnaire-mercedes/) liste les questions à poser avant de s'engager
 
+Une fois l'essai fait, reste la question du canal de commande : notre guide [où acheter le CLA électrique Mercedes](/blog/ou-acheter-cla-electrique-mercedes/) compare la concession agréée, le mandataire, le configurateur et l'occasion récente, prix catalogue et délais à l'appui.
+
 ## Questions fréquentes {#questions-frequentes}
 
 <details>

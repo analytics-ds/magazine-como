@@ -141,6 +141,8 @@ Booking an **electric CLA** test drive follows a simple procedure, but a few pre
 2. Limiting the test drive to an urban route, which hides the real behaviour on expressways and motorway consumption
 3. Overlooking financing questions, when leasing conditions are discussed from the test drive onwards
 
+Once the test drive is done, the ordering channel remains to be settled: our guide on [where to buy the Mercedes electric CLA](/en/blog/where-to-buy-mercedes-cla-electric/) compares the authorised dealership, the broker, the configurator and nearly new stock, with list prices and lead times.
+
 ## Frequently asked questions {#faq}
 
 <details>
