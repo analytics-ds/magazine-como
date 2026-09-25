@@ -2,6 +2,7 @@
 
 ## Semaine 39 (21/09/2026 - 27/09/2026)
 - 2026-09-22 | Geely Coolray avis : points forts et limites (FR+EN) | Modeles et comparatifs | auto | mode: datafer | score: 73/54 | image: pexels | AIO: declenchee
+- 2026-09-25 | Zeekr 9X France : prix et disponibilite (FR+EN) | Electrique | auto | mode: datafer | score: 74/47 | image: pexels | AIO: non declenchee
 
 ## Semaine 38 (14/09/2026 - 20/09/2026)
 - 2026-09-14 | Zeekr Paris : ou essayer la marque en Ile-de-France (FR+EN) | Concessionnaires | ponctuel | mode: crazyserp (async, 12 min) | image: pexels | AIO: declenchee | source reseau: referentiel officiel Zeekr interroge le 14/09
