@@ -2,7 +2,7 @@
 title: "Zeekr Paris : où essayer la marque en Île-de-France"
 translationKey: "zeekr-paris"
 date: "2026-09-14"
-lastmod: "2026-09-14"
+lastmod: "2026-09-27"
 publishDate: "2026-09-14"
 description: "Zeekr à Paris : ce que recouvre l'adresse parisienne de la marque, où essayer les modèles en Île-de-France, les tarifs et le réseau annoncé."
 categories: ["Concessionnaires"]
@@ -52,6 +52,8 @@ La première passe par le formulaire d'essai du constructeur, qui propose l'entr
 La seconde voie est la seule qui corresponde à une véritable concession au sens classique. Le site **Zeekr Roissy Saint-Witz**, situé 67 Grande Rue à Saint-Witz (95470) dans le Val-d'Oise, est opéré par le groupe Bauer Paris, déjà représentant d'autres marques. C'est le seul point francilien du référentiel à cumuler l'ensemble des prestations : exposition des véhicules, essai, livraison, préparation avant livraison et service après-vente.
 
 Concrètement, un automobiliste parisien qui veut voir les modèles en vrai, comparer les finitions et repartir avec une proposition chiffrée doit aujourd'hui monter au nord de la région, à une trentaine de kilomètres de Paris, à proximité immédiate de l'aéroport de Roissy. C'est le point que l'information disponible en ligne masque le plus souvent.
+
+Depuis la publication de cet article, Como distribue aussi la marque dans le Val-d'Oise, sur son site de Saint-Ouen-l'Aumône. Les deux adresses et la marche à suivre pour réserver sont comparées dans notre guide [Zeekr Paris showroom essai](/blog/zeekr-paris-showroom-essai/).
 
 ## La gamme Zeekr disponible à Paris et ses tarifs
 

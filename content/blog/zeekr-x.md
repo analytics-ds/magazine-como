@@ -2,7 +2,7 @@
 title: "Zeekr X : prix, autonomie et fiche technique du SUV compact"
 translationKey: "zeekr-x"
 date: "2026-06-03"
-lastmod: "2026-06-03"
+lastmod: "2026-09-27"
 publishDate: "2026-06-03"
 description: "Zeekr X en France : SUV urbain électrique à partir de 37 990 €, jusqu'à 415 km WLTP, recharge 10-80 % en 18 min. Prix, versions et fiche technique."
 categories: ["Modeles et comparatifs"]
@@ -112,7 +112,7 @@ Les commandes sont ouvertes depuis le 2 avril 2026. Les premières livraisons fr
 
 ### Pas de bonus écologique
 
-Fabriqué en Chine, le **Zeekr X** n'est pas éligible au bonus écologique français. À 37 990 € sans aide, il se retrouve face à des concurrents européens qui, eux, peuvent en bénéficier. La marque compense par une garantie de **10 ans ou 200 000 km** et un équipement de série très complet.
+Fabriqué en Chine, le **Zeekr X** n'est pas éligible au bonus écologique français. À 37 990 € sans aide, il se retrouve face à des concurrents européens qui, eux, peuvent en bénéficier. La marque compense par une garantie de **10 ans ou 200 000 km** et un équipement de série très complet. Avant de comparer sur le papier, le plus parlant reste de prendre le volant : les sites et la réservation sont détaillés dans notre guide pour un [essai Zeekr près de Paris](/blog/zeekr-paris-showroom-essai/).
 
 ## Le Zeekr X face à la concurrence des SUV urbains {#concurrence}
 

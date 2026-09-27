@@ -2,7 +2,7 @@
 title: "Zeekr 7GT : prix, autonomie et fiche technique du break sportif"
 translationKey: "zeekr-7gt"
 date: "2026-07-23"
-lastmod: "2026-07-23"
+lastmod: "2026-09-27"
 publishDate: "2026-07-23"
 description: "Zeekr 7GT : break sportif électrique dès 45 990 €, jusqu'à 655 km d'autonomie WLTP, 421 à 646 ch et recharge 800V. Fiche technique complète et prix en France."
 categories: ["Modeles et comparatifs"]
@@ -16,7 +16,7 @@ faq:
   - question: "La Zeekr 7GT recharge-t-elle vite ?"
     answer: "Oui. Grâce à son architecture 800 volts, la Zeekr 7GT accepte une puissance de recharge rapide DC allant jusqu'à 480 kW, ce qui permet de passer de 10 à 80 % en 13 à 16 minutes selon la version."
   - question: "Où acheter une Zeekr 7GT en Île-de-France ?"
-    answer: "En Île-de-France, Como est le revendeur exclusif Zeekr. Le distributeur commercialise la gamme de la marque, dont la 7GT, et accompagne l'essai, l'achat et le financement."
+    answer: "Como est distributeur Zeekr dans le Val-d'Oise, sur son site de Saint-Ouen-l'Aumône, où il accompagne l'essai, l'achat et le financement de la gamme, dont la 7GT. En Île-de-France, la concession Zeekr Roissy Saint-Witz du groupe Bauer Paris commercialise aussi la marque."
 readingTime: true
 ---
 
@@ -108,7 +108,7 @@ La **Zeekr 7GT** cible frontalement les breaks premium européens, à commencer 
 
 ## Où acheter la Zeekr 7GT en Île-de-France {#ou-acheter}
 
-En Île-de-France, **Como est le revendeur exclusif Zeekr**. Le distributeur commercialise l'ensemble de la gamme de la marque, dont la 7GT, et accompagne l'essai, la commande, la reprise et le financement. Les modalités et les prises de rendez-vous sont accessibles depuis [le site de Como](https://como.fr/).
+**Como est distributeur Zeekr dans le Val-d'Oise**, sur son site de Saint-Ouen-l'Aumône. Le groupe accompagne l'essai, la commande, la reprise et le financement de la gamme, dont la 7GT, et la concession Zeekr Roissy Saint-Witz du groupe Bauer Paris commercialise aussi la marque dans la région. Les lieux et la marche à suivre pour réserver sont réunis dans notre guide [Zeekr Paris showroom essai](/blog/zeekr-paris-showroom-essai/). Les modalités et les prises de rendez-vous sont accessibles depuis [le site de Como](https://como.fr/).
 
 Comme les autres modèles de la marque, la 7GT bénéficie de la garantie constructeur Zeekr de 10 ans ou 200 000 km, l'une des plus longues du marché, qui compense l'absence de bonus écologique. Pour un panorama complet des tarifs et des solutions de financement de la marque, la berline [Zeekr 007](/blog/zeekr-007/) dont dérive la 7GT complète utilement la comparaison.
 
@@ -138,6 +138,6 @@ Oui. Grâce à son architecture 800 volts, la Zeekr 7GT accepte une puissance de
 <details>
 <summary>Où acheter une Zeekr 7GT en Île-de-France ?</summary>
 
-En Île-de-France, Como est le revendeur exclusif Zeekr. Le distributeur commercialise la gamme de la marque, dont la 7GT, et accompagne l'essai, l'achat et le financement.
+Como est distributeur Zeekr dans le Val-d'Oise, sur son site de Saint-Ouen-l'Aumône, où il accompagne l'essai, l'achat et le financement de la gamme, dont la 7GT. En Île-de-France, la concession Zeekr Roissy Saint-Witz du groupe Bauer Paris commercialise aussi la marque.
 
 </details>

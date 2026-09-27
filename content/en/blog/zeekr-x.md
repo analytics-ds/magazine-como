@@ -2,7 +2,7 @@
 title: "Zeekr X: Price, Range and Specs of the Compact SUV"
 translationKey: "zeekr-x"
 date: "2026-06-03"
-lastmod: "2026-06-03"
+lastmod: "2026-09-27"
 publishDate: "2026-06-03"
 description: "Zeekr X in France: urban electric SUV from €37,990, up to 415 km WLTP, 10-80% charging in 18 min. Prices, versions and full specifications."
 categories: ["Models and comparisons"]
@@ -112,7 +112,7 @@ Orders have been open since April 2, 2026. The first French deliveries took plac
 
 ### No French EV bonus
 
-Built in China, the **Zeekr X** is not eligible for the French ecological bonus. At €37,990 without subsidy, it faces European competitors that can benefit from it. The brand compensates with a **10-year or 200,000 km** warranty and very comprehensive standard equipment.
+Built in China, the **Zeekr X** is not eligible for the French ecological bonus. At €37,990 without subsidy, it faces European competitors that can benefit from it. The brand compensates with a **10-year or 200,000 km** warranty and very comprehensive standard equipment. Before comparing on paper, the best test is a drive: sites and booking are covered in our guide to a [Zeekr test drive near Paris](/en/blog/zeekr-paris-test-drive-showroom/).
 
 ## The Zeekr X against the urban SUV competition {#competitors}
 

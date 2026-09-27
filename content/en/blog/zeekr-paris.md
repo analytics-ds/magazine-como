@@ -2,7 +2,7 @@
 title: "Zeekr Paris: Where to Test Drive the Brand in Île-de-France"
 translationKey: "zeekr-paris"
 date: "2026-09-14"
-lastmod: "2026-09-14"
+lastmod: "2026-09-27"
 publishDate: "2026-09-14"
 description: "Zeekr in Paris: what the brand's Paris address actually covers, where to test drive its models in Île-de-France, prices and the announced network."
 categories: ["Dealers"]
@@ -52,6 +52,8 @@ The first goes through the manufacturer's test drive form, which offers the "Zee
 The second route is the only one that matches a genuine dealership in the traditional sense. The **Zeekr Roissy Saint-Witz** site, at 67 Grande Rue in Saint-Witz (95470) in the Val-d'Oise, is operated by the Bauer Paris group, already a representative for other brands. It is the only location in the region listed with the full set of services: vehicle display, test drives, delivery, pre-delivery inspection and after-sales service.
 
 In practical terms, a Paris driver who wants to see the models in the metal, compare trim levels and leave with a written quote currently has to head north of the region, some thirty kilometres from Paris, right next to Roissy airport. That is the point most online information obscures.
+
+Since this article was published, Como has also been distributing the brand in the Val-d'Oise, at its Saint-Ouen-l'Aumône site. Both addresses and the booking steps are compared in our guide to a [Zeekr Paris showroom test drive](/en/blog/zeekr-paris-test-drive-showroom/).
 
 ## The Zeekr range available in Paris and its prices
 

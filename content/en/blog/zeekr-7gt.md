@@ -2,7 +2,7 @@
 title: "Zeekr 7GT: price, range and specifications of the sporty estate"
 translationKey: "zeekr-7gt"
 date: "2026-07-23"
-lastmod: "2026-07-23"
+lastmod: "2026-09-27"
 publishDate: "2026-07-23"
 description: "Zeekr 7GT: electric sporty estate from €45,990, up to 655 km WLTP range, 421 to 646 hp and 800V charging. Full specifications and prices in France."
 categories: ["Models and comparisons"]
@@ -16,7 +16,7 @@ faq:
   - question: "Does the Zeekr 7GT charge quickly?"
     answer: "Yes. Thanks to its 800-volt architecture, the Zeekr 7GT accepts DC fast charging up to 480 kW, allowing a 10 to 80% top-up in 13 to 16 minutes depending on the version."
   - question: "Where can you buy a Zeekr 7GT in the Île-de-France region?"
-    answer: "In the Île-de-France region, Como is the exclusive Zeekr dealer. It sells the brand's line-up, including the 7GT, and handles test drives, purchase and financing."
+    answer: "Como is a Zeekr distributor in the Val-d'Oise, at its Saint-Ouen-l'Aumône site, where it handles test drives, purchase and financing for the range, including the 7GT. In the Île-de-France region, the Zeekr Roissy Saint-Witz dealership run by the Bauer Paris group also sells the brand."
 readingTime: true
 ---
 
@@ -108,7 +108,7 @@ The **Zeekr 7GT** directly targets European premium estates, starting with the M
 
 ## Where to buy the Zeekr 7GT in Île-de-France {#where-to-buy}
 
-In the Île-de-France region, **Como is the exclusive Zeekr dealer**. It sells the brand's entire line-up, including the 7GT, and handles test drives, orders, trade-ins and financing. Details and appointment booking are available from [Como's website](https://como.fr/).
+**Como is a Zeekr distributor in the Val-d'Oise**, at its Saint-Ouen-l'Aumône site. The group handles test drives, orders, trade-ins and financing for the range, including the 7GT, and the Zeekr Roissy Saint-Witz dealership run by the Bauer Paris group also sells the brand in the region. Locations and booking steps are gathered in our guide to a [Zeekr Paris showroom test drive](/en/blog/zeekr-paris-test-drive-showroom/). Details and appointment booking are available from [Como's website](https://como.fr/).
 
 Like the brand's other models, the 7GT comes with Zeekr's 10-year or 200,000 km manufacturer warranty, one of the longest on the market, which offsets the absence of an ecological bonus. For a full picture of the brand's pricing and financing, the [Zeekr 007](/en/blog/zeekr-007/) saloon that the 7GT is derived from usefully completes the comparison.
 
@@ -138,6 +138,6 @@ Yes. Thanks to its 800-volt architecture, the Zeekr 7GT accepts DC fast charging
 <details>
 <summary>Where can you buy a Zeekr 7GT in the Île-de-France region?</summary>
 
-In the Île-de-France region, Como is the exclusive Zeekr dealer. It sells the brand's line-up, including the 7GT, and handles test drives, purchase and financing.
+Como is a Zeekr distributor in the Val-d'Oise, at its Saint-Ouen-l'Aumône site, where it handles test drives, purchase and financing for the range, including the 7GT. In the Île-de-France region, the Zeekr Roissy Saint-Witz dealership run by the Bauer Paris group also sells the brand.
 
 </details>
