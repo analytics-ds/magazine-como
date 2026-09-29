@@ -178,10 +178,10 @@ articles:
     volume: 720
     kd: null
     scheduled_date: "2026-09-29"
-    status: todo
-    published_date: null
-    published_url_fr: null
-    published_url_en: null
+    status: done
+    published_date: "2026-09-29"
+    published_url_fr: "https://magazine.como.fr/blog/zeekr-7x-prix/"
+    published_url_en: "https://magazine.como.fr/en/blog/zeekr-7x-price/"
     error: null
 
   - kw: "volvo rachete par les chinois"
