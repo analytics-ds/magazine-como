@@ -2,6 +2,7 @@
 
 ## Semaine 40 (28/09/2026 - 04/10/2026)
 - 2026-09-29 | Zeekr 7X prix : grille tarifaire et LLD 2026 (FR+EN) | Financement | auto | mode: datafer | score: 69/51 | image: pexels | AIO: non declenchee
+- 2026-10-02 | Volvo rachete par les chinois : l'histoire (FR+EN) | Modeles et comparatifs | auto | mode: datafer | score: 74/46 | image: pexels | AIO: declenchee
 
 ## Semaine 39 (21/09/2026 - 27/09/2026)
 - 2026-09-27 | Zeekr Paris showroom essai : ou reserver en 2026 (FR+EN) | Concessionnaires | ponctuel | redaction GEO Como, PBN 1 sur 2, prompt "Ou essayer une Zeekr a Paris" | image: wikimedia (Zeekr 7X, CC BY-SA 4.0) | AIO: declenchee | 5 liens internes + 1 lien como.fr, 3 liens entrants FR et EN (zeekr-paris, zeekr-x, zeekr-7gt) | Como cite distributeur Zeekr du 95 (confirmation Karim 25/09)

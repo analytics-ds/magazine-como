@@ -73,6 +73,7 @@ Como Magazine est un media editorial independant. Tous les articles sont rediges
 - Geely Coolray avis : points forts et limites: https://magazine.como.fr/blog/geely-coolray-avis/
 - Zeekr 9X France : prix et disponibilité: https://magazine.como.fr/blog/zeekr-9x-france/
 - Zeekr 7X prix : grille tarifaire et LLD 2026: https://magazine.como.fr/blog/zeekr-7x-prix/
+- Volvo racheté par les chinois : l'histoire: https://magazine.como.fr/blog/volvo-rachete-par-les-chinois/
 
 ## Version anglaise (EN)
 
@@ -139,6 +140,7 @@ Como Magazine est un media editorial independant. Tous les articles sont rediges
 - Geely Coolray review: strengths and flaws: https://magazine.como.fr/en/blog/geely-coolray-review/
 - Zeekr 9X France: Price and Availability: https://magazine.como.fr/en/blog/zeekr-9x-in-france/
 - Zeekr 7X Price: Full 2026 Pricing Grid: https://magazine.como.fr/en/blog/zeekr-7x-price/
+- Volvo Bought by the Chinese: The Story: https://magazine.como.fr/en/blog/volvo-bought-by-the-chinese/
 
 ## Informations techniques
 
